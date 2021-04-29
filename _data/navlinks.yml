@@ -6,6 +6,10 @@
   url: /about me
   group: about me
 
+- name: projects
+  url: /projects
+  group: projects
+
 - name: publications
   url: /publications
   group: publications

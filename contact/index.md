@@ -8,8 +8,6 @@ group: contact
 
 Email: emmaliinamarjakangas(at)gmail.com or emma.marjakangas(at)helsinki.fi
 
-Phone: +35840 6726716 
-
 Links to my accounts on:
 
 [Twitter](http://twitter.com/EmmaMarjakangas)

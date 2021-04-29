@@ -4,7 +4,7 @@ layout: default
 group: publications
 ---
 
-<h1>Publications</h1>
+<h1 class="page-header text-center"> Publications </h1>
 
 [Wintering bird communities are tracking climate change faster than breeding communities.](https://www.researchgate.net/publication/348795470_Wintering_bird_communities_are_tracking_climate_change_faster_than_breeding_communities) 2021. Lehikoinen Aleksi, Lindström Åke, Santangeli Andrea, Sirkiä Päivi M., Brotons Lluis, Devictor Vincent, Elts Jaanus, Foppen Ruud P.B., Heldbjerg Henning, Herrando Sergi, Herremans Marc, Hudson Marie‐Anne R., Jiguet Frédéric, Johnston Alison, Lorrilliere Romain, **Marjakangas Emma‐Liina**, Michel Nicole L., Moshøj Charlotte M., Nellis Renno, Paquet Jean‐Yves, Smith Adam C., Szép Tibor, van Turnhout Chris. *Journal of Animal Ecology* 13433
 
