@@ -1,3 +1,5 @@
+
+
 ---
 name: About me
 layout: default
@@ -6,8 +8,10 @@ group: about me
 
 <h1 class="page-header text-center"> About me </h1>
 
-Research interests
+I am a community ecologist, currently working as a postdoc with [Aleksi Lehikoinen](https://www.luomus.fi/fi/helsinki-lab-ornithology).
 
-Education
+**Research interests**
 
-Personal interests
+**Education**
+
+**Personal interests**

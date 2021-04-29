@@ -9,5 +9,5 @@ group: home
 <img src="/static/img/profile4.jpg" class="img-responsive center-block" alt="Hiking in the Scandinavian mountains"/>
 
 <p class="lead text-center">
-I'm a community ecologist, fascinated by the complexity of biodiversity and determined to understand and conserve it. 
+I'm a community ecologist, fascinated by nature's complexity and determined to understand and conserve it. 
 </p>
