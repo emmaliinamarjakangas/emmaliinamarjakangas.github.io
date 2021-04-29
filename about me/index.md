@@ -14,6 +14,6 @@ I am a community ecologist, currently working as a postdoc in [Helsinki Lab of O
 
 Global change in forms of climate change, habitat destruction and fragmentation, invasive species, pollution and overharvesting has created a biodiversity crisis. Biodiversity is deteriorating at various levels of organization from individuals to ecosystems. In my research, I focus on the biodiversity trends at the largest spatial and temporal scales. I'm broadly interested in community ecology, species' interactions, biogeography, species' traits, global change drivers, species distribution modelling, and related to all these: handling large data sets. The overarching theme of my research is understanding what makes species' communities as they are.
 
-<img src="/static/img/filtering.png" class="img-responsive center-block" alt="Community assembly theory"/>
-
 <h2 class="page-header text-justify"> **Personal interests** </h2> 
+
+I love spending time in nature, both in remote national parks and in the urban forests. My favorite ways to take my mind off work are football and pub quizzing.
