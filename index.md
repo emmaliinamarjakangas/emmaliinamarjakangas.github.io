@@ -4,7 +4,7 @@ layout: default
 group: home
 ---
 
-<h1 class="text-center">Emma-Liina Marjakangas, Ph.D.</h1>
+<h1 class="text-center">Emma-Liina Marjakangas, PhD</h1>
 
 <img src="/static/img/profile4.jpg" class="img-responsive center-block" alt="Hiking in the Scandinavian mountains"/>
 
