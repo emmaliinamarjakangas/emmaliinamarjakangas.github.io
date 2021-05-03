@@ -6,9 +6,9 @@ group: contact
 
 <h1 class="page-header text-center"> Contact </h1>
 
-Email: emmaliinamarjakangas(at)gmail.com or emma.marjakangas(at)helsinki.fi
+<img src="/static/img/presentation1.jpg" style="float: rigth;" height="500px" width="500px" border="50px"/>
 
-<img src="/static/img/presentation1.jpg" style="float: left;" height="500px" width="500px" border="50px"/>
+Email: emmaliinamarjakangas(at)gmail.com or emma.marjakangas(at)helsinki.fi
 
 Links to my accounts on:
 
