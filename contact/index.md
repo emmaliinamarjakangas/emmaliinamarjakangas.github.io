@@ -8,7 +8,7 @@ group: contact
 
 Email: emmaliinamarjakangas(at)gmail.com or emma.marjakangas(at)helsinki.fi
 
-<img src="/static/img/presentation1.jpg" style="float: left;" height="200px" width="200px" border="1px"/>
+<img src="/static/img/presentation1.jpg" style="float: left;" height="800px" width="800px" border="10px"/>
 
 Links to my accounts on:
 
