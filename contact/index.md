@@ -8,7 +8,9 @@ group: contact
 
 Email: emmaliinamarjakangas(at)gmail.com or emma.marjakangas(at)helsinki.fi
 
-Links to my accounts on:
+<div>
+    <p style="float: left;"><img src="/static/img/presentation.jpg" height="200px" width="200px" border="1px"></p>
+    <p>Links to my accounts on:
 
 [Twitter](http://twitter.com/EmmaMarjakangas)
 
@@ -18,4 +20,6 @@ Links to my accounts on:
 
 [GoogleScholar](https://scholar.google.com/citations?user=nkYgsYYAAAAJ&hl=fi&oi=ao)
 
-[ORCID](https://orcid.org/0000-0002-5245-3779)
+[ORCID](https://orcid.org/0000-0002-5245-3779)</p>
+</div>
+
