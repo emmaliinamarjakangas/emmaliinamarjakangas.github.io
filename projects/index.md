@@ -20,7 +20,9 @@ Knowledge on how and why species interact with each other can provide invaluable
 
 **Assessing the abundances and population sizes of deadwood inhabiting fungi in boreal forests** (Internship 2015)
 
-Despite the large coverage of boreal forest in Nordic countries, such as Finland, forest species are under continuous threat due to intertwined effects of intensifying forestry, forest fragmentation and lack of deadwood. Deadwood inhabiting fungi are decomposers that maintain the deadwood continuum in boreal forests, but estimates of their abundances and population sizes are needed for reliable conservation and forest management. This project utilized long-term survey data of deadwood inhabiting fungi from a nature park in hemiboreal zone
+Despite the large coverage of boreal forest in Nordic countries, such as Finland, forest species are under continuous threat due to intertwined effects of intensifying forestry, forest fragmentation and lack of deadwood. Deadwood inhabiting fungi are decomposers that maintain the deadwood continuum in boreal forests, but estimates of their abundances and population sizes are needed for reliable conservation and forest management. This project utilized long-term survey data of deadwood inhabiting fungi from a nature park in hemiboreal zone. The continuity of the deadwood profile in terms of size and tree species is crucial for maintaining the resources of other trophic levels. However, following changes in the forestry management in the study area, there were gaps in the deadwood continuum, particularly for rare tree species.
+
+<img src="/static/img/boreal_forest.png" class="img-responsive center-block" alt="Boreal forest" style="max-height: 200px;"/>
 
 **Detectability and conservation of moonworts (*Botrychium*) in Finland** (MSc 2014-2015)
 
@@ -31,3 +33,5 @@ Vascular plants are often used as indicators to assess the endangerment status o
 **Winter activity of Arthropods (*Arthropoda*) in forest and meadow habitats** (BSc 2013)
 
 Both abiotic (e.g., snow depth, temperature) and biotic (e.g., species' traits and interactions) factors influence communities of wintering arthropods. In my BSc projet, I studied the composition of wintering arthropod communities in three snow layers in two habitat types that differ in their abiotic conditions. Springtails were the most dominant across the snow layers and habitats. The forest habitat had higher taxonomic richness than meadow habitats, when measuring the number of taxa, number of individuals and number of indicator taxa. The abiotic factors influenced strongly the observed communities, suggesting that climate change will drastically influence the composition of wintering arthropod communities.
+
+<img src="/static/img/arthropods.png" class="img-responsive center-block" alt="Arthropod samples" style="max-height: 200px;"/>
