@@ -10,6 +10,8 @@ group: publications
 
 <img src="/static/img/wordcloud.jpg" style="float: right;" height="500px" width="500px" border="50px"/>
 
+[Co-occurrences of tropical trees in eastern South America: disentangling abiotic and biotic forces.](https://link.springer.com/content/pdf/10.1007/s11258-021-01143-3.pdf) 2021. **Marjakangas Emma-Liina**, Ovaskainen Otso, Abrego Nerea, Grøtan vidar, de Oliveira Alexandre A., Prado Paulo I., de Lima Renato A. F. *Plant Ecology*
+
 [Wintering bird communities are tracking climate change faster than breeding communities.](https://www.researchgate.net/publication/348795470_Wintering_bird_communities_are_tracking_climate_change_faster_than_breeding_communities) 2021. Lehikoinen Aleksi, Lindström Åke, Santangeli Andrea, Sirkiä Päivi M., Brotons Lluis, Devictor Vincent, Elts Jaanus, Foppen Ruud P.B., Heldbjerg Henning, Herrando Sergi, Herremans Marc, Hudson Marie‐Anne R., Jiguet Frédéric, Johnston Alison, Lorrilliere Romain, **Marjakangas Emma‐Liina**, Michel Nicole L., Moshøj Charlotte M., Nellis Renno, Paquet Jean‐Yves, Smith Adam C., Szép Tibor, van Turnhout Chris. *Journal of Animal Ecology* 13433
 
 [Fragmented tropical forests lose mutualistic plant–animal interactions](https://onlinelibrary.wiley.com/doi/epdf/10.1111/ddi.13010). 2020. **Marjakangas Emma‐Liina**, Abrego Nerea, Grøtan Vidar, Lima Renato A. F., Bello Carolina, Bovendorp Ricardo S., Culot Laurence, Hasui Érica, Lima Fernando, Muylaert Renata Lara, Niebuhr Bernardo Brandão, Oliveira Alexandre A., Pereira Lucas Augusto, Prado, Paulo I., Stevens Richard D., Vancine Maurício Humberto, Ribeiro Milton Cezar, Galetti Mauro, Ovaskainen Otso. *Diversity and Distributions* 26:154-168
