@@ -12,7 +12,7 @@ I am a community ecologist, currently working as a postdoc in [Helsinki Lab of O
 
 <h2 class="page-header text-justify"> **Research interests** </h2> 
 
-Ecological communities consist of different species that interact directly and indirectly with each other. The overarching theme of my research is understanding what makes species' communities as they are and how they will change under the ever-intensifying anthropogenic pressures. In my research, I focus on the biodiversity trends at large spatial and temporal scales and wide range of taxa. I'm broadly interested in theoretical ecology, species' interactions, biogeography, species' traits, global change drivers, species distribution modelling, and related to all these: handling large data sets. For more details of past and ongoing research, see 'projects'.
+Ecological communities consist of different species that interact directly and indirectly with each other. The overarching theme of my research is understanding what makes species' communities as they are and how they will change under the ever-intensifying anthropogenic pressures. In my research, I focus on the biodiversity trends at large spatial and temporal scales and wide range of taxa. I'm broadly interested in theoretical ecology, species' interactions, biogeography, species' traits, global change drivers, species distribution modelling, and related to all these: handling large data sets. For more details of past and ongoing research, see ['projects'](https://emmaliinamarjakangas.github.io/projects/).
 
 <h2 class="page-header text-justify"> **Personal interests** </h2> 
 
