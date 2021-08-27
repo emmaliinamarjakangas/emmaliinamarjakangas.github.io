@@ -23,6 +23,6 @@ Links to my accounts on:
 
 [ORCID](https://orcid.org/0000-0002-5245-3779)
 
-[University of Helsinki](https://researchportal.helsinki.fi/en/persons/emma-liina-marjakangas)
+[University of Helsinki](https://researchportal.helsinki.fi/fi/persons/emma-liina-marjakangas)
 
 
