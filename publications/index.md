@@ -10,6 +10,8 @@ group: publications
 
 <img src="/static/img/wordcloud.jpg" style="float: right;" height="500px" width="500px" border="50px"/>
 
+[Short-lived species move uphill faster under climate change](https://link.springer.com/content/pdf/10.1007/s00442-021-05094-4.pdf) 2022. Couet Joséphine, **Marjakangas Emma-Liina**, Santangeli Andrea, Kålås John Atle, Lindström Åke, Lehikoinen Aleksi. *Oecologia*
+
 [Trait-based inference of ecological network assembly: a conceptual framework and methodological toolbox](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecm.1502) 2021. **Marjakangas Emma-Liina**, Muñoz Gabriel, Turney Shaun, Albrecht Jörg, Neuschulz Eike Lena, Schleuning Matthias, Lessard Jean-Philippe. *Ecological Monographs* e1502
 
 [Pathways towards a sustainable future envisioned by early-career conservation researchers](https://conbio.onlinelibrary.wiley.com/doi/epdf/10.1111/csp2.493) 2021. Raatikainen Kaisa J., Purhonen Jenna, Pohjanmies Tähti, Peura Maiju, Nieminen Eini, Mustajärvi Linda, Helle Ilona, Shennan‐Farpón Yara, Ahti Pauliina A., Basile Marco, Bernardo Nicola, Bertram Michael G., Bouarakia Oussama, Brias‐Guinart Aina, Fijen Thijs, Froidevaux Jérémy S. P., Hemmingmoore Heather, Hocevar Sara, Kendall Liam, Lampinen Jussi, **Marjakangas Emma‐Liina**, Martin Jake M., Oomen Rebekah A., Segre Hila, Sidemo‐Holm William, Silva André P., Thorbjørnsen Susanna Huneide, Torrents‐Ticó Miquel, Zhang Di, Ziemacki Jasmin. *Conservation Science and Practice* 3:e493
