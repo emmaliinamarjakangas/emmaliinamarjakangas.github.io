@@ -10,7 +10,13 @@ group: news
 
 <img src="/static/img/news_pic_1.png" style="float: right;" height="202px" width="350px" border="50px"/>
 
-The international Day of Women and Girls in Science is approaching! [United Nations](https://www.un.org/en/observances/women-and-girls-in-science-day) declared this important celebration for February 11th in 2015 and one way to celebrate it this year is to join in on the 500 Women Scientists -organization's event online. In the event, 10 women scientist tell about their experiences in science and how these experiences could be used to make science more inclusive for all underrepresented groups. Register for the free event here: https://www.eventbrite.com/e/500-women-scientists-women-in-science-day-tickets-260323934897
+<p>The international Day of Women and Girls in Science is approaching! [United Nations](https://www.un.org/en/observances/women-and-girls-in-science-day) declared this important celebration for February 11th in 2015 and one way to celebrate it this year is to join in on the 500 Women Scientists -organization's event online. In the event, 10 women scientist tell about their experiences in science and how these experiences could be used to make science more inclusive for all underrepresented groups. Register for the free event here: https://www.eventbrite.com/e/500-women-scientists-women-in-science-day-tickets-260323934897<br>
+<br>
+<br>
+<br>
+<br>
+
+</p>
 
 <img src="/static/img/news_pic2.jpg" style="float: right;" height="217px" width="350px" border="0px"/>
 
