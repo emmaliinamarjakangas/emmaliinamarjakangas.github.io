@@ -6,7 +6,11 @@ group: news
 
 <h1 class="page-header text-center"> News </h1>
 
-**February 2022**
+<p>**February 2022**<br>
+<br>
+<br>
+
+</p>
 
 <img src="/static/img/news_pic_1.png" style="float: right;" height="202px" width="355px" border="50px"/>
 
