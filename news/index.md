@@ -8,9 +8,9 @@ group: news
 
 **February 2022**
 
-<img src="/static/img/news_pic_1.png" style="float: right;" height="202px" width="350px" border="50px"/>
+<img src="/static/img/news_pic_1.png" style="float: right;" height="202px" width="355px" border="50px"/>
 
-<p>The international Day of Women and Girls in Science is approaching! [United Nations](https://www.un.org/en/observances/women-and-girls-in-science-day) declared this important celebration for February 11th in 2015 and one way to celebrate it this year is to join in on the 500 Women Scientists -organization's event online. In the event, 10 women scientist tell about their experiences in science and how these experiences could be used to make science more inclusive for all underrepresented groups. Register for the free event here: https://www.eventbrite.com/e/500-women-scientists-women-in-science-day-tickets-260323934897<br>
+<p>The international Day of Women and Girls in Science was declared by the [United Nations](https://www.un.org/en/observances/women-and-girls-in-science-day) in 2015 and is celebrated on February 11th every year. This year I celebrated the day by joining the 500 Women Scientists -organization's event online: "What is it like to be a woman in Science". In the event, ten women scientist (including myself) told about their experiences in science and how these experiences could be used to make science more inclusive for all underrepresented groups. Join the 500 Women Scientists -organization to find out about future event: https://500womenscientists.org/ <br>
 <br>
 <br>
 <br>
