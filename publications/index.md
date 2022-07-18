@@ -10,9 +10,14 @@ group: publications
 
 <img src="/static/img/wordcloud.jpg" style="float: right;" height="500px" width="500px" border="50px"/>
 
-[Short-lived species move uphill faster under climate change](https://link.springer.com/content/pdf/10.1007/s00442-021-05094-4.pdf) 2022. Couet Joséphine, **Marjakangas Emma-Liina**, Santangeli Andrea, Kålås John Atle, Lindström Åke, Lehikoinen Aleksi. *Oecologia*
+[Effects of diversity on thermal niche variation in bird communities under climate change](https://www.researchsquare.com/article/rs-1712646/v1) preprint. **Marjakangas Emma-Liina**, Santangeli Andrea, Johnston Alison, Michel Nicole L., Princé Karine, Lehikoinen Aleksi.
 
-[Trait-based inference of ecological network assembly: a conceptual framework and methodological toolbox](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecm.1502) 2021. **Marjakangas Emma-Liina**, Muñoz Gabriel, Turney Shaun, Albrecht Jörg, Neuschulz Eike Lena, Schleuning Matthias, Lessard Jean-Philippe. *Ecological Monographs* e1502
+[Ecological barriers mediate spatiotemporal shifts of bird communities](https://www.researchsquare.com/article/rs-1347347/v1) preprint. **Marjakangas Emma-Liina**, 
+Bosco Laura, Versluijs Martijn, Xu Yanjie, Santangeli Andrea, Holopainen Sari, Mäkeläinen Sanna, Herrando Sergi, Keller Verena, Voříšek Petr, Brotons Lluís, Johnston Alison, Princé Karine, Willis Stephen, Aghababyan Karen, Ajder Vitalie, Balmer Dawn, Bino Taulant, Boyla Kerem Ali, Chodkiewicz Tomasz, del Moral Juan Carlos, Dumbović Mazal Vlatka, Ferrarini Alessandro, Godinho Carlos, Gustin Marco, Kalyakin Mikhail, Knaus Peter, Kuzmenko Tatiana, Lindström Åke, Maxhuni Qenan, Molina Blas,Nagy Károly, Radišić Dimitrije, Rajkov Saša, Rajković Draženko Z., Raudonikis Liutauras, Sjeničić Jovica, Stoychev Stoycho, Szép Tibor, Teufelbauer Norbert, Ursul Silvia, van Turnhout Chris A.M., Velevski Metodija, Vikstrøm Thomas, Wilk Tomasz, Voltzit Olga, Øien Ingar Jostein, Lehikoinen Aleksi.
+
+[Short-lived species move uphill faster under climate change](https://link.springer.com/content/pdf/10.1007/s00442-021-05094-4.pdf) 2022. Couet Joséphine, **Marjakangas Emma-Liina**, Santangeli Andrea, Kålås John Atle, Lindström Åke, Lehikoinen Aleksi. *Oecologia* 198:877-888
+
+[Trait-based inference of ecological network assembly: a conceptual framework and methodological toolbox](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecm.1502) 2021. **Marjakangas Emma-Liina**, Muñoz Gabriel, Turney Shaun, Albrecht Jörg, Neuschulz Eike Lena, Schleuning Matthias, Lessard Jean-Philippe. *Ecological Monographs* 92:e1502
 
 [Pathways towards a sustainable future envisioned by early-career conservation researchers](https://conbio.onlinelibrary.wiley.com/doi/epdf/10.1111/csp2.493) 2021. Raatikainen Kaisa J., Purhonen Jenna, Pohjanmies Tähti, Peura Maiju, Nieminen Eini, Mustajärvi Linda, Helle Ilona, Shennan‐Farpón Yara, Ahti Pauliina A., Basile Marco, Bernardo Nicola, Bertram Michael G., Bouarakia Oussama, Brias‐Guinart Aina, Fijen Thijs, Froidevaux Jérémy S. P., Hemmingmoore Heather, Hocevar Sara, Kendall Liam, Lampinen Jussi, **Marjakangas Emma‐Liina**, Martin Jake M., Oomen Rebekah A., Segre Hila, Sidemo‐Holm William, Silva André P., Thorbjørnsen Susanna Huneide, Torrents‐Ticó Miquel, Zhang Di, Ziemacki Jasmin. *Conservation Science and Practice* 3:e493
 
