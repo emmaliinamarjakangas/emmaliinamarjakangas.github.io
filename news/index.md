@@ -12,7 +12,7 @@ group: news
 
 </p>
 
-<img src="/static/img/news_pic3.png" style="float: right;" border="0px"/>
+<img src="/static/img/news_pic_3.png" style="float: right;" height="217px" width="350px" border="0px"/>
 
 I gave a presentation on a work-in-progress paper in Nordic Oikos Conference in Aarhus, Denmark. You can find the preprint of the paper [here](https://www.researchsquare.com/article/rs-1347347/v1). It was great to see so many familiar faces in the conference after two years, the Nordic community of ecologists is really warm and welcoming!
 
@@ -22,7 +22,7 @@ I gave a presentation on a work-in-progress paper in Nordic Oikos Conference in 
 
 </p>
 
-<img src="/static/img/news_pic4.jpg" style="float: right;" height="217px" width="350px" border="0px"/>
+<img src="/static/img/news_pic_4.jpg" style="float: right;" height="217px" width="350px" border="0px"/>
 
 A few weeks' research stay at Centre for Ecological Modeling at St Andrews University to kickstart a project about global bird species' tolerances to human influence with Dr Alison Johnston. I got to visit the Isle of May and the DENSE sea bird colonies there. Talk about species' interactions among the birds that coexist in such high numbers on a tiny island like that! And I got to see the puffins for the first time ever!
 <br>
