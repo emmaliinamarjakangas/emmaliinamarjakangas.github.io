@@ -6,6 +6,26 @@ group: news
 
 <h1 class="page-header text-center"> News </h1>
 
+Last updated: 18.07.2022
+
+<p>**July 2022**<br>
+<br>
+<br>
+
+</p>
+
+<img src="/static/img/news_pic_5.png" style="float: right;" height="217px" width="350px" border="0px"/>
+
+I got the rare opportunity to help out in Joséphine Couet's fieldwork in Kilpisjärvi, north of Finland. The goal of this small pilot was to study the breeding success of Meadow Pipits and Lapland Buntings across an altitudinal gradient, but the nests of these ground-nesting birds proved hard to find! Instad of a lot of bird nests, luckily we gained plenty of behavioural and ecological knowledge on the coexistence of birds along mountain slopes and microhabitats!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <p>**June 2022**<br>
 <br>
 <br>
@@ -15,6 +35,14 @@ group: news
 <img src="/static/img/news_pic_3.png" style="float: right;" height="217px" width="350px" border="0px"/>
 
 I gave a presentation on a work-in-progress paper in Nordic Oikos Conference in Aarhus, Denmark. You can find the preprint of the paper [here](https://www.researchsquare.com/article/rs-1347347/v1). It was great to see so many familiar faces in the conference after two years, the Nordic community of ecologists is really warm and welcoming!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p>**May 2022**<br>
 <br>
