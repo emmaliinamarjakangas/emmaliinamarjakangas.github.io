@@ -26,7 +26,7 @@ group: news
 <br>
 <br>
 
-<p>**June 2022**<br>
+**June 2022**<br>
 
 </p>
 
@@ -42,7 +42,7 @@ group: news
 <br>
 <br>
 
-<p>**May 2022**<br>
+**May 2022**<br>
 
 </p>
 
@@ -58,7 +58,7 @@ group: news
 <br>
 <br>
 
-<p>**February 2022**<br>
+**February 2022**<br>
 
 </p>
 
@@ -74,7 +74,7 @@ group: news
 <br>
 <br>
 
-<p>**January 2022**<br>
+**January 2022**<br>
 
 </p>
 
