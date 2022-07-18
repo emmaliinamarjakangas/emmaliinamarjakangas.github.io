@@ -9,18 +9,14 @@ group: news
 *Last updated: 18.07.2022*
 <br>
 <br>
-<br>
-<br>
 
 <p>**July 2022**<br>
-<br>
-<br>
 
 </p>
 
-<img src="/static/img/news_pic_5.jpg" style="float: right;" height="217px" width="350px" border="0px"/>
+<img src="/static/img/news_pic_5.jpg" style="float: right;" height="217px" width="350px" border="50px"/>
 
-I got the rare opportunity to help out in Joséphine Couet's fieldwork in Kilpisjärvi, north of Finland. The goal of this small pilot was to study the breeding success of Meadow Pipits and Lapland Buntings across an altitudinal gradient, but the nests of these ground-nesting birds proved hard to find! Instad of a lot of bird nests, luckily we gained plenty of behavioural and ecological knowledge on the coexistence of birds along mountain slopes and microhabitats!
+<p>I got the rare opportunity to help out in Joséphine Couet's fieldwork in Kilpisjärvi, Sápmi (Finland). The goal of this small pilot was to study the breeding success of Meadow Pipits and Lapland Buntings across an altitudinal gradient, but the nests of these ground-nesting birds proved hard to find! Although we didn't find enough nests for statistical analyses, we luckily gained plenty of behavioural and ecological knowledge on the coexistence of birds along mountain slopes and in varying microhabitats. And the camping site couldn't have been more beautiful! <br>
 <br>
 <br>
 <br>
@@ -31,14 +27,12 @@ I got the rare opportunity to help out in Joséphine Couet's fieldwork in Kilpis
 <br>
 
 <p>**June 2022**<br>
-<br>
-<br>
 
 </p>
 
-<img src="/static/img/news_pic_3.png" style="float: right;" height="217px" width="350px" border="0px"/>
+<img src="/static/img/news_pic_3.png" style="float: right;" height="217px" width="350px" border="50px"/>
 
-I gave a presentation on a work-in-progress paper in Nordic Oikos Conference in Aarhus, Denmark. You can find the preprint of the paper [here](https://www.researchsquare.com/article/rs-1347347/v1). It was great to see so many familiar faces in the conference after two years, the Nordic community of ecologists is really warm and welcoming!
+<p>The in-person conferences are happening after a long pause by the pandemic. In Nordic Oikos Conference in Aarhus (Denmark), I gave a presentation on a work-in-progress paper about the effects of large-scale barriers on bird community shifts under climate change (find the preprint of the paper [here](https://www.researchsquare.com/article/rs-1347347/v1)). It was great to see so many familiar faces in the conference after two years, the Nordic community of ecologists is truly warm and welcoming! <br>
 <br>
 <br>
 <br>
@@ -49,14 +43,12 @@ I gave a presentation on a work-in-progress paper in Nordic Oikos Conference in 
 <br>
 
 <p>**May 2022**<br>
-<br>
-<br>
 
 </p>
 
-<img src="/static/img/news_pic_4.jpg" style="float: right;" height="217px" width="350px" border="0px"/>
+<img src="/static/img/news_pic_4.jpg" style="float: right;" height="217px" width="350px" border="50px"/>
 
-A few weeks' research stay at Centre for Ecological Modeling at St Andrews University to kickstart a project about global bird species' tolerances to human influence with Dr Alison Johnston. I got to visit the Isle of May and the DENSE sea bird colonies there. Talk about species' interactions among the birds that coexist in such high numbers on a tiny island like that! And I got to see the puffins for the first time ever!
+<p>Better late than never: I finally managed to do the long-planned research stay at Centre for Research into Ecological & Environmental Modelling ([CREEM](https://www.creem.st-andrews.ac.uk/)) at University of St Andrews. During the three weeks, I kickstarted a project about global bird species' tolerances to human influence using eBird data with Dr Alison Johnston. I also got to visit the Isle of May and its dense sea bird colonies. Talk about species' interactions among the birds that coexist in such high numbers on the tiny island... And I got to see the puffins for the first time! <br>
 <br>
 <br>
 <br>
@@ -67,8 +59,6 @@ A few weeks' research stay at Centre for Ecological Modeling at St Andrews Unive
 <br>
 
 <p>**February 2022**<br>
-<br>
-<br>
 
 </p>
 
@@ -85,14 +75,12 @@ A few weeks' research stay at Centre for Ecological Modeling at St Andrews Unive
 <br>
 
 <p>**January 2022**<br>
-<br>
-<br>
 
 </p>
 
-<img src="/static/img/news_pic2.jpg" style="float: right;" height="217px" width="350px" border="0px"/>
+<img src="/static/img/news_pic2.jpg" style="float: right;" height="217px" width="350px" border="50px"/>
 
-The first paper from Joséphine Couet's PhD project has been published. In the study, we found that mountain bird abundances are shifting uphill in Scandinavia and the species with fast pace of life are moving especially fast. Read more about study in Finnish [here](https://www.helsinki.fi/fi/uutiset/luontokato/linnut-siirtyvat-skandeilla-kohti-tuntureiden-viileampia-ylarinteita-ilmaston-lammetessa).
+<p>The first paper from Joséphine Couet's PhD project has been published. In the study, we found that mountain bird abundances are shifting uphill in Scandinavia and the species with fast pace of life are moving especially fast. Read more about study in Finnish [here](https://www.helsinki.fi/fi/uutiset/luontokato/linnut-siirtyvat-skandeilla-kohti-tuntureiden-viileampia-ylarinteita-ilmaston-lammetessa). <br>
 <br>
 <br>
 <br>
