@@ -11,7 +11,7 @@ group: projects
 
 Climate change affects biodiversity through responses of individual species, pairwise interactions, and entire communities. Community-level responses can reflect ecosystem responses to climate change and other anthropogenic pressures. Species distributions can track climate change to varying extents, thus changing the overall composition of local communities. In addition, climate change can alter communities via species’ interaction networks and linked dependencies on resources. In this project, I explore the processes that determine the extent and the direction of bird community changes under climate change. For example, I study the effect of community diversity and variation in species' traits on the shift of entire communities.
 
-<img src="/static/img/diversity_stability.png" class="img-responsive center-block" alt="Community stability under climate change" style="max-height: 200px;"/>
+<img src="/static/img/birds.png" class="img-responsive center-block" alt="Breeding birds and nests in northern hemisphere" style="max-height: 200px;"/>
 
 
 **Understanding species interactions in the tropics: dynamics within and between trophic levels** (PhD 2015-2019)

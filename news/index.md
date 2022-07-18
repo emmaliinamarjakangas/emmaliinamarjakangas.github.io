@@ -14,7 +14,7 @@ group: news
 
 <img src="/static/img/news_pic_5.jpg" style="float: right;" height="217px" width="350px" border="50px"/>
 
-<p>I got the rare opportunity to help out in Joséphine Couet's fieldwork in Kilpisjärvi, Sápmi (Finland). The goal of this small pilot was to study the breeding success of Meadow Pipits and Lapland Buntings across an altitudinal gradient, but the nests of these ground-nesting birds proved hard to find! Although we didn't find enough nests for statistical analyses, we luckily gained plenty of behavioural and ecological knowledge on the coexistence of birds along mountain slopes and in varying microhabitats. And the camping site couldn't have been more beautiful! <br>
+<p>I got the rare opportunity to help out with Joséphine Couet's fieldwork in Kilpisjärvi, Sápmi (Finland). The goal of this small pilot was to study the breeding success of Meadow Pipits and Lapland Buntings across an altitudinal gradient, but the nests of these ground-nesting birds proved hard to find! Although we didn't find enough nests for statistical analyses, we luckily gained plenty of behavioural and ecological knowledge on the coexistence of birds along mountain slopes and in varying microhabitats. And the camping site couldn't have been more beautiful! <br>
 <br>
 <br>
 <br>
