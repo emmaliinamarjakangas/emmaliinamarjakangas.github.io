@@ -6,7 +6,11 @@ group: news
 
 <h1 class="page-header text-center"> News </h1>
 
-Last updated: 18.07.2022
+*Last updated: 18.07.2022*
+<br>
+<br>
+<br>
+<br>
 
 <p>**July 2022**<br>
 <br>
@@ -14,7 +18,7 @@ Last updated: 18.07.2022
 
 </p>
 
-<img src="/static/img/news_pic_5.png" style="float: right;" height="217px" width="350px" border="0px"/>
+<img src="/static/img/news_pic_5.jpg" style="float: right;" height="217px" width="350px" border="0px"/>
 
 I got the rare opportunity to help out in Joséphine Couet's fieldwork in Kilpisjärvi, north of Finland. The goal of this small pilot was to study the breeding success of Meadow Pipits and Lapland Buntings across an altitudinal gradient, but the nests of these ground-nesting birds proved hard to find! Instad of a lot of bird nests, luckily we gained plenty of behavioural and ecological knowledge on the coexistence of birds along mountain slopes and microhabitats!
 <br>
@@ -73,6 +77,14 @@ A few weeks' research stay at Centre for Ecological Modeling at St Andrews Unive
 <p>The international Day of Women and Girls in Science was declared by the [United Nations](https://www.un.org/en/observances/women-and-girls-in-science-day) in 2015 and is celebrated on February 11th every year. This year I celebrated the day by joining the 500 Women Scientists -organization's event online: "What is it like to be a woman in Science". In the event, ten women scientist (including myself) told about their experiences in science and how these experiences could be used to make science more inclusive for all underrepresented groups. Join the [500 Women Scientists -organization](https://500womenscientists.org/) to find out about future events. <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p>**January 2022**<br>
 <br>
 <br>
 
