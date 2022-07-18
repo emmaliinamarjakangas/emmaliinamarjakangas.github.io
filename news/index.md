@@ -5,8 +5,6 @@ group: news
 ---
 
 <h1 class="page-header text-center"> News </h1>
-
-*Last updated: 18.07.2022*
 <br>
 <br>
 
@@ -77,6 +75,12 @@ group: news
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
+*Last updated: 18.07.2022*
 <br>
 <br>
 
