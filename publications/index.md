@@ -34,3 +34,7 @@ Bosco Laura, Versluijs Martijn, Xu Yanjie, Santangeli Andrea, Holopainen Sari, M
 [Estimating interaction credit for trophic rewilding in tropical forests](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2017.0435). 2018. **Marjakangas Emma-Liina**, Genes Luísa, Pires Mathias M., Fernandez Fernando A. S., de Lima Renato A. F., de Oliveira Alexandre Adalardo, Ovaskainen Otso, Pires Alexandra S., Prado Paulo I., Galetti Mauro. *Philosophical Transactions of the Royal Society B* 373:20170435
 
 [ATLANTIC BATS: a dataset of bat communities from the Atlantic Forests of South America](https://esajournals.onlinelibrary.wiley.com/doi/epdf/10.1002/ecy.2007). 2017. Muylaert Renata L., Stevens Richard D., Esbérard Carlos Eduardo Lustosa, Mello Marco Aurelio Ribeiro, Garbino Guilherme Siniciato Terra, Varzinczak Luiz H., Faria Deborah, de Moraes Weber Marcelo, Kerches Rogeri Patricia, Regolin André Luis, de Oliveira Hernani Fernandes Magalhães, Costa Luciana de Moraes, Barros Marília A. S., Sabino-Santos Gilberto Júnior, Crepaldi de Morais Mara Ariane, Kavagutti Vinicius Silva, Passos Fernando C., **Marjakangas Emma-Liina**, Maia Felipe Gonçalves Motta, Ribeiro Milton Cezar, Galetti Mauro. *Ecology* 98:3227
+<br>
+<br>
+<br>
+<br>

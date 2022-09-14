@@ -8,6 +8,20 @@ group: news
 <br>
 <br>
 
+<p>**August 2022**<br>
+
+</p>
+
+<img src="/static/img/news_pic_6.jpg" style="float: right;" height="217px" width="350px" border="50px"/>
+
+<p>The second conference for this summer was ECCB2022 in Prague, where us [Helsinki Lab of Ornithology](https://www.luomus.fi/fi/helsinki-lab-ornithology)  members contributed with talks, a posters and a symposium, a pretty impressive selection I would say! I presented the latest part of my postdoc project on identification of keystone species in climate change context, stay tuned for the (hopefully-soon) published paper on the topic! <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <p>**July 2022**<br>
 
 </p>
@@ -80,7 +94,7 @@ group: news
 <br>
 <br>
 
-*Last updated: 18.07.2022*
+*Last updated: 14.09.2022*
 <br>
 <br>
 
