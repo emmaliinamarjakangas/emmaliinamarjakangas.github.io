@@ -36,7 +36,6 @@ group: news
 <br>
 <br>
 <br>
-<br>
 
 **August 2022**<br>
 
