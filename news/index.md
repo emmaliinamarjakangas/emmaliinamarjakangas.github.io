@@ -26,9 +26,11 @@ group: news
 
 </p>
 
-<img src="/static/img/news_pic_8.jpeg" style="float: right;" height="217px" width="350px" border="50px"/>
+<img src="/static/img/news_pic_8.jpg" style="float: right;" height="217px" width="350px" border="50px"/>
 
 <p> Bunch of applications submitted!! Fingers crossed for funding for the next few years studying ecological network rewiring under global change. <br>
+<br>
+<br>
 <br>
 <br>
 <br>
