@@ -8,7 +8,35 @@ group: news
 <br>
 <br>
 
-<p>**August 2022**<br>
+<p>**October 2022**<br>
+
+</p>
+
+<img src="/static/img/news_pic_7.jpeg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p>What does an ornithology lab do for a recreation day? Go bird ringing of course! In Laajalahti ringing station, in sunny weather, we captured a bunch of reed buntings, blue tits and even one fierce bearded reedling. It turned out that my superpower is differentiating the shades of blue in blue tit males and females.  <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**September 2022**<br>
+
+</p>
+
+<img src="/static/img/news_pic_8.jpeg" style="float: right;" height="217px" width="350px" border="50px"/>
+
+<p> Bunch of applications submitted!! Fingers crossed for funding for the next few years studying ecological network rewiring under global change. <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**August 2022**<br>
 
 </p>
 
@@ -22,7 +50,7 @@ group: news
 <br>
 <br>
 
-<p>**July 2022**<br>
+**July 2022**<br>
 
 </p>
 
