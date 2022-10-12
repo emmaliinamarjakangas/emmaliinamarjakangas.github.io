@@ -28,7 +28,7 @@ group: news
 
 <img src="/static/img/news_pic_8.jpg" style="float: right;" height="217px" width="350px" border="50px"/>
 
-<p> Bunch of applications submitted!! Fingers crossed for funding for the next few years studying ecological network rewiring under global change. <br>
+<p> Bunch of applications submitted!! Fingers crossed for funding for the next few years studying ecological network rewiring under global change. Now a long wait to hear the results, but also some time to focus on the current project for a change... <br>
 <br>
 <br>
 <br>
