@@ -7,7 +7,7 @@ group: projects
 <h1 class="page-header text-center"> Projects </h1>
 
 
-**Effects of climate change on bird communities at large spatiotemporal scales** (Postdoc 2019-present) 
+**Effects of climate change on bird communities at large spatiotemporal scales** (Postdoc 2019-2023) 
 
 Climate change affects biodiversity through responses of individual species, pairwise interactions, and entire communities. Community-level responses can reflect ecosystem responses to climate change and other anthropogenic pressures. Species' distributions can track climate change to varying extents, thus changing the overall composition of local communities. In addition, climate change can alter communities via species’ interaction networks and linked dependencies on resources. In this project, I explore the processes that determine the extent and the direction of bird community changes under climate change in the northern hemisphere. For example, I study the effect of community diversity and variation in species' traits on the shift of entire communities.
 
