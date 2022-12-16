@@ -17,12 +17,8 @@ group: news
 <p>We all have those papers that have been looking for their final home for a long time. For me it has been this study on the community diversity effects on birds' thermal "stability" under climate change. Finally I can open my celebratory bottle of beer and announce that it has been accepted to Scientific Reports!! Especially in the winter, the overall level of functional diversity in the bird community can buffer the effects of climate change on the community structure. Most importantly, having multiple trophic levels represented in the bird community is especially beneficial for the buffering against climate change induced changes in the community structure. Yet another reason to address biodiversity and climate crises together and not separately! You can soon find a link to the open access article in the ['publications'](https://emmaliinamarjakangas.github.io/publications/) page!  <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
-<p>**November 2022**<br>
+**November 2022**<br>
 
 </p>
 
@@ -31,12 +27,8 @@ group: news
 <p>After attending plenty of conferences, I have for the first time gotten a chance to enter the other side and particiate in organizing the next [Oikos Finland 2023 conference](https://nordicsocietyoikos.glueup.com/event/oikos-finland-2023-conference-65152/). There's plenty happenging behind the scenes and the registration will open in December, but most importantly we have secured a great line-up of plenary speakers (Nerea Abrego - University of Jyväskylä, Bengt-Gunnar Jonsson - Mid Sweden University, Aino Juslén - SYKE & Craig Primmer - University of Helsinki) and two pre-conference workshops (Careers outside academia & Reproducible science). Especially close to my heart have been all those decisions in the conference organization that address the sustainability and the actions that especially us ecologists need to take during the times of biodiversity and climate crises: serving only vegan or vegetarian food, encouraging people to arrive by train, and organizing a [Scientist Rebellion](https://scientistrebellion.com/) session during one of the lunch breaks. I hope to see many fellow ecologist in Helsinki 13.-15.2.2023! <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
-<p>**October 2022**<br>
+**October 2022**<br>
 
 </p>
 
