@@ -15,6 +15,8 @@ Links to my accounts on:
 
 [Twitter](http://twitter.com/EmmaMarjakangas)
 
+[Mastodon](https://ecoevo.social/@EmmaMarjakangas)
+
 [ResearchGate](https://www.researchgate.net/profile/Emma-Liina-Marjakangas-2)
 
 [GoogleScholar](https://scholar.google.com/citations?user=nkYgsYYAAAAJ&hl=fi&oi=ao)
