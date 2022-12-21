@@ -8,7 +8,7 @@ group: publications
 
 *If you don't have access to a publication via the links below, please contact me by email to get a pdf.*
 
-<img src="/static/img/wordcloud.jpg" style="float: right;" height="500px" width="500px" border="50px"/>
+<img src="/static/img/wordcloud.jpg" style="float: right;" height="700px" width="700px" border="50px"/>
 
 [Effects of diversity on thermal niche variation in bird communities under climate change](https://www.nature.com/articles/s41598-022-26248-1.pdf) 2022. **Marjakangas Emma-Liina**, Santangeli Andrea, Johnston Alison, Michel Nicole L., Princé Karine, Lehikoinen Aleksi. *Scientific Reports* 12:21810 
 
