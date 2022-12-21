@@ -10,7 +10,7 @@ group: publications
 
 <img src="/static/img/wordcloud.jpg" style="float: right;" height="500px" width="500px" border="50px"/>
 
-[Effects of diversity on thermal niche variation in bird communities under climate change](https://www.researchsquare.com/article/rs-1712646/v1) preprint. **Marjakangas Emma-Liina**, Santangeli Andrea, Johnston Alison, Michel Nicole L., Princé Karine, Lehikoinen Aleksi.
+[Effects of diversity on thermal niche variation in bird communities under climate change](https://www.nature.com/articles/s41598-022-26248-1.pdf) 2022. **Marjakangas Emma-Liina**, Santangeli Andrea, Johnston Alison, Michel Nicole L., Princé Karine, Lehikoinen Aleksi. *Scientific Reports* 12:21810 
 
 [Ecological barriers mediate spatiotemporal shifts of bird communities](https://www.researchsquare.com/article/rs-1347347/v1) preprint. **Marjakangas Emma-Liina**, 
 Bosco Laura, Versluijs Martijn, Xu Yanjie, Santangeli Andrea, Holopainen Sari, Mäkeläinen Sanna, Herrando Sergi, Keller Verena, Voříšek Petr, Brotons Lluís, Johnston Alison, Princé Karine, Willis Stephen, Aghababyan Karen, Ajder Vitalie, Balmer Dawn, Bino Taulant, Boyla Kerem Ali, Chodkiewicz Tomasz, del Moral Juan Carlos, Dumbović Mazal Vlatka, Ferrarini Alessandro, Godinho Carlos, Gustin Marco, Kalyakin Mikhail, Knaus Peter, Kuzmenko Tatiana, Lindström Åke, Maxhuni Qenan, Molina Blas,Nagy Károly, Radišić Dimitrije, Rajkov Saša, Rajković Draženko Z., Raudonikis Liutauras, Sjeničić Jovica, Stoychev Stoycho, Szép Tibor, Teufelbauer Norbert, Ursul Silvia, van Turnhout Chris A.M., Velevski Metodija, Vikstrøm Thomas, Wilk Tomasz, Voltzit Olga, Øien Ingar Jostein, Lehikoinen Aleksi.
@@ -29,7 +29,7 @@ Bosco Laura, Versluijs Martijn, Xu Yanjie, Santangeli Andrea, Holopainen Sari, M
 
 [A database and synthesis of euglossine bee assemblages collected at fragrance baits](https://link.springer.com/content/pdf/10.1007/s13592-020-00739-4.pdf). 2020. Opedal Øystein H., Martins Adriana A., **Marjakangas Emma Liina**. *Apidologie* 51:519-530
 
-[Dead wood profile of a semi-natural boreal forest - implications for sampling](https://www.silvafennica.fi/pdf/article10010.pdf) 2019. Halme Panu, Purhonen Jenna, **Marjakangas Emma-Liina**, Komonen Atte, Juutilainen Katja, Abrego Nerea. *Silva Fennica* 53:10010
+[Dead wood profile of a semi-natural boreal forest - implications for sampling](https://www.silvafennica.fi/article/10010) 2019. Halme Panu, Purhonen Jenna, **Marjakangas Emma-Liina**, Komonen Atte, Juutilainen Katja, Abrego Nerea. *Silva Fennica* 53:10010
 
 [Estimating interaction credit for trophic rewilding in tropical forests](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2017.0435). 2018. **Marjakangas Emma-Liina**, Genes Luísa, Pires Mathias M., Fernandez Fernando A. S., de Lima Renato A. F., de Oliveira Alexandre Adalardo, Ovaskainen Otso, Pires Alexandra S., Prado Paulo I., Galetti Mauro. *Philosophical Transactions of the Royal Society B* 373:20170435
 
