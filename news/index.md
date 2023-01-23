@@ -8,13 +8,27 @@ group: news
 <br>
 <br>
 
-<p>**December 2022**<br>
+<p>**January 2023**<br>
+
+</p>
+
+<img src="/static/img/news_pic_11.png" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p>Big news to start the new year: I have joined the board of [Society for Conservation Biology, Europe section](https://conbio.org/groups/sections/europe)! I'm really excited to start working on the next ECCB conference, facilitating science-based policies based on conservation research and supporting early career conservation scientists across Europe with awards and opportunities to join interesting webinars. All that should keep me busy during the three-year term on the board! <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**December 2022**<br>
 
 </p>
 
 <img src="/static/img/news_pic_10.png" style="float: right;" height="217px" width="355px" border="50px"/>
 
-<p>We all have those papers that have been looking for their final home for a long time. For me it has been this study on the community diversity effects on birds' thermal "stability" under climate change. Finally I can open my celebratory bottle of beer and announce that it has been accepted to Scientific Reports!! Especially in the winter, the overall level of functional diversity in the bird community can buffer the effects of climate change on the community structure. Most importantly, having multiple trophic levels represented in the bird community is especially beneficial for the buffering against climate change induced changes in the community structure. Yet another reason to address biodiversity and climate crises together and not separately! You can soon find a link to the open access article in the ['publications'](https://emmaliinamarjakangas.github.io/publications/) page!  <br>
+<p>We all have those papers that have been looking for their final home for a long time. For me it has been this study on the community diversity effects on birds' thermal "stability" under climate change. Finally I can open my celebratory bottle of beer and announce that it has been accepted to Scientific Reports!! Especially in the winter, the overall level of functional diversity in the bird community can buffer the effects of climate change on the community structure. Most importantly, having multiple trophic levels represented in the bird community is especially beneficial for the buffering against climate change induced changes in the community structure. Yet another reason to address biodiversity and climate crises together and not separately! You can now find a link to the open access article in the ['publications'](https://emmaliinamarjakangas.github.io/publications/) page! Here are also links to the press release of the publication in [English](https://www.helsinki.fi/en/news/climate-change/biodiversity-safeguards-bird-communities-under-changing-climate) and in [Finnish](https://www.helsinki.fi/fi/uutiset/ilmastonmuutos/monimuotoisuus-suojaa-lintuyhteisoja-ilmastonmuutoksen-vaikutuksilta). <br>
 <br>
 <br>
 
