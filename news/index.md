@@ -8,7 +8,31 @@ group: news
 <br>
 <br>
 
-<p>**January 2023**<br>
+<p>**March 2023**<br>
+
+</p>
+
+<img src="/static/img/news_pic_13.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p>I currently have a couple of months before I start the next postdoc project so I try to use this time to learn new things that I haven't had time to learn before. As a part of that, I participated in a two-day course on science journalism organized by [Suomen Luonto](https://suomenluonto.fi/), the biggest nature magazine in Finland. Writing popularized science text can be tricky for us scientists being used to writing scientific articles. Being bold enough to generalize things, stepping outside the topic and letting other people be experts, and inventing scientific terms in Finnish were big lessons to learn from the course. This #muutos section in Suomen Luonto will feature plenty of global change -related popularized science articles in the next fall, maybe you'll even see something from me there! <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**February 2023**<br>
+
+</p>
+
+<img src="/static/img/news_pic_12.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p>
+Oikos Finland 2023 was a great success! A lot of interesting talks and posters, four wonderful keynotes and a lot of social activities squeezed into just two days. Before the conference, we also organized a workshop on 'Careers outside academia', which made me (and hopefully also the workshop participants) a bit more hopeful about the future even if the door to the university jobs close. The speakers from different lines of work highlighted the useful skills from doing an ecology-related PhD, such as coding, project & budget management, and international collaboration. After speakers' presentations, in 'career speed dating', workshop participants got to meet with all speakers and ask more specific questions about the speakers' career paths and the job market in Finlandmore generally. If you're interested in knowing more about the careers outside academia in Finland, contact me and I can share some of the summary material. In general, it was rewarding to be one of the conference organizers, because it gave me a chance to implement all those environmental and equality measures into the conference that I have been hoping to see in other conferences. Among other things, I hope we set an example for future conferences that serving fully vegan food is possible and actually doable. Being one of the organizers did mean less time spent listening the talks and preparing my own, though. But I did get to present my work-in-progress study on tolerances of world's birds to human pressures! <br>
+<br>
+<br>
+
+**January 2023**<br>
 
 </p>
 
@@ -38,7 +62,7 @@ group: news
 
 <img src="/static/img/news_pic_9.png" style="float: right;" height="217px" width="355px" border="50px"/>
 
-<p>After attending plenty of conferences, I have for the first time gotten a chance to enter the other side and particiate in organizing the next [Oikos Finland 2023 conference](https://nordicsocietyoikos.glueup.com/event/oikos-finland-2023-conference-65152/). There's plenty happenging behind the scenes and the registration will open in December, but most importantly we have secured a great line-up of plenary speakers (Nerea Abrego - University of Jyväskylä, Bengt-Gunnar Jonsson - Mid Sweden University, Aino Juslén - SYKE & Craig Primmer - University of Helsinki) and two pre-conference workshops (Careers outside academia & Reproducible science). Especially close to my heart have been all those decisions in the conference organization that address the sustainability and the actions that especially us ecologists need to take during the times of biodiversity and climate crises: serving only vegan or vegetarian food, encouraging people to arrive by train, and organizing a [Scientist Rebellion](https://scientistrebellion.com/) session during one of the lunch breaks. I hope to see many fellow ecologist in Helsinki 13.-15.2.2023! <br>
+<p>After attending plenty of conferences, I have for the first time gotten a chance to enter the other side and particiate in organizing the next [Oikos Finland 2023 conference](https://nordicsocietyoikos.glueup.com/event/oikos-finland-2023-conference-65152/). There's plenty happenging behind the scenes and the registration will open in December, but most importantly we have secured a great line-up of plenary speakers (Nerea Abrego - University of Jyväskylä, Bengt-Gunnar Jonsson - Mid Sweden University, Aino Juslén - SYKE & Craig Primmer - University of Helsinki) and two pre-conference workshops (Careers outside academia & Reproducible science). Particularly close to my heart have been all those decisions in the conference organization that address the sustainability and the actions that especially us ecologists need to take during the times of biodiversity and climate crises: serving only vegan or vegetarian food, encouraging people to arrive by train, and organizing a [Scientist Rebellion](https://scientistrebellion.com/) session during one of the lunch breaks. I hope to see many fellow ecologist in Helsinki 13.-15.2.2023! <br>
 <br>
 <br>
 
@@ -79,7 +103,7 @@ group: news
 
 <img src="/static/img/news_pic6.jpeg" style="float: right;" height="217px" width="350px" border="50px"/>
 
-<p>The second conference for this summer was ECCB2022 in Prague, where us [Helsinki Lab of Ornithology](https://www.luomus.fi/fi/helsinki-lab-ornithology)  members contributed with talks, a posters and a symposium, a pretty impressive selection I would say! I presented the latest part of my postdoc project on identification of keystone species in climate change context, stay tuned for the (hopefully-soon) published paper on the topic! <br>
+<p>The second conference for this summer was ECCB2022 in Prague, where us [Helsinki Lab of Ornithology](https://www.luomus.fi/fi/helsinki-lab-ornithology)  members contributed with talks, a poster and a symposium, a pretty impressive selection I would say! I presented the latest part of my postdoc project on identification of keystone species in climate change context, stay tuned for the (hopefully-soon) published paper on the topic! <br>
 <br>
 <br>
 <br>
@@ -160,7 +184,7 @@ group: news
 <br>
 <br>
 
-*Last updated: 16.12.2022*
+*Last updated: 27.03.2023*
 <br>
 <br>
 
