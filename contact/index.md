@@ -9,7 +9,7 @@ group: contact
 <img src="/static/img/presentation1.jpg" style="float: right;" height="500px" width="500px" border="50px"/>
 
 Email: 	emmaliinamarjakangas(at)gmail.com or 
-	emma.marjakangas(at)helsinki.fi
+	emma.marjakangas(at)bio.au.dk
 
 Links to my accounts on:
 
