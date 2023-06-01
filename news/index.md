@@ -8,7 +8,31 @@ group: news
 <br>
 <br>
 
-<p>**March 2023**<br>
+<p>**May 2023**<br>
+
+</p>
+
+<img src="/static/img/news_pic_15.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p>I got the opportunity to give a public lecture on biodiversity in [Porkkalan lintuviikko](https://porkkalanlintuviikko.fi/) in Kirkkonummi. This was the first time in years that I gave a lecture in Finnish and the first time in years that I gave a lecture targeted to the general audience. Porkkalan lintuviikko is a yearly event for anyone interested in nature and birds and it includes public lectures and field trips. Although Friday evening was not the best time to attract a lot of people, the audience was interested in learning how the biodiversity ensures a stable and functional ecosystem. The highglight of the evening was to have my mother in the audience learning in more detail about my field of work and my own research. Thanks mom for joining! The lecture will be available on [Porkkalan lintuviikko's Youtube channel](https://www.youtube.com/@porkkalanlintuviikko7711) soon!<br>
+<br>
+<br>
+<br>
+<br>
+
+**April 2023**<br>
+
+</p>
+
+<img src="/static/img/news_pic_14.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p>This spring, the Helsinki Lab of Ornithology has been piloting a course 'Climate change and biodiversity: impacts on birds' at University of Helsinki. We have put our heads together to come up with a curriculum that covers climate change impacts on birds from morphology, population dynamics, communities and conservation perspectives. The ~20 MSc students have been great at discussing papers with us and asking critical questions. This course has given us the opportunity to explore pedagogical alternatives to lectures+big exam -format. As a result, the students are preparing graphical abstracts and figure interpretations on selected articles, which will count towards their grades. We have been very impressed by the quality of work. On the right the students are discussing [Stewart et al. 2022 paper](https://onlinelibrary.wiley.com/doi/10.1111/ele.13830) in class; I like it when I don't have to do all the talking!<br>
+<br>
+<br>
+<br>
+<br>
+
+**March 2023**<br>
 
 </p>
 
