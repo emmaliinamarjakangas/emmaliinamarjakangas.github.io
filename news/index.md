@@ -8,7 +8,21 @@ group: news
 <br>
 <br>
 
-<p>**May 2023**<br>
+<p>**June 2023**<br>
+
+</p>
+
+<img src="/static/img/news_pic_8.png" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p>Greetings from Aarhus from a fresh Marie Skłodowska-Curie Actions Fellow! I had been reserve-listed in February and thought I would never get the grant, but luckily more funding became available from EU and I was granted the MSCA fellowship after all. It will take some time to fully process this information, but I'm so excited to start working on seed dispersal and pollination networks again. See more on the [Projects-page](https://emmaliinamarjakangas.github.io/projects/). I trialed the train-ferry traveling from Finland to Denmark this month, which will surely be my regular way of transportation in the next years. In summary: trains win and planes lose, see the Twitter thread [here](https://twitter.com/EmmaMarjakangas/status/1663540230916300800)!<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**May 2023**<br>
 
 </p>
 
@@ -208,7 +222,7 @@ group: news
 <br>
 <br>
 
-*Last updated: 27.03.2023*
+*Last updated: 19.06.2023*
 <br>
 <br>
 
