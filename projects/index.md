@@ -6,6 +6,14 @@ group: projects
 
 <h1 class="page-header text-center"> Projects </h1>
 
+**Rewiring of ecological networks under global change** (Postdoc 2023-2026)
+
+One of the main consequences of the current biodiversity crisis is the reorganization of pairwise interactions among species across ecological networks. This reorganization of ecological networks, termed ‘interaction rewiring’, can occur both via establishment of new interactions between species and/or changes in the strengths of the interactions between species. Rewiring can drastically alter nature’s functions and services to humanity. In this project, I quantify the potential of rewiring in mutualistic networks globally and predict how mutualistic networks might rewire under different global change scenarios. For example, I study the effect of rewiring on network stability in pollination and seed dispersal networks. The project is funded by Postdocpool / Emil Aaltosen Säätiö and Marie Skłodowska-Curie Actions (MSCA) Fellowship.
+
+<br>
+<img src="/static/img/rewiring.png" class="img-responsive center-block" alt="Seed dispersal and pollination interactions between plants and animals" style="max-height: 200px;"/>
+<br>
+<br>
 
 **Effects of climate change on bird communities at large spatiotemporal scales** (Postdoc 2019-2023) 
 
