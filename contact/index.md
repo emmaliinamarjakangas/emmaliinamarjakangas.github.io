@@ -6,7 +6,7 @@ group: contact
 
 <h1 class="page-header text-center"> Contact </h1>
 
-<img src="/static/img/presentation1.jpg" style="float: right;" height="500px" width="500px" border="50px"/>
+<img src="/static/img/face1.jpg" style="float: right;" height="621px" width="446" border="10px"/>
 
 Email: 	emmaliinamarjakangas(at)gmail.com or 
 	emma.marjakangas(at)bio.au.dk
@@ -24,6 +24,8 @@ Links to my accounts on:
 [LinkedIn](https://www.linkedin.com/in/emma-liina-marjakangas/)
 
 [ORCID](https://orcid.org/0000-0002-5245-3779)
+
+[Aarhus University](https://pure.au.dk/portal/en/persons/emmaliina-marjakangas(5ca3909e-bcdf-45dc-885a-3fb58cc5bc3e).html)
 
 [University of Helsinki](https://researchportal.helsinki.fi/fi/persons/emma-liina-marjakangas)
 

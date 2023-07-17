@@ -8,7 +8,21 @@ group: news
 <br>
 <br>
 
-<p>**June 2023**<br>
+<p>**July 2023**<br>
+
+</p>
+
+<img src="/static/img/news_pic_16.png" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p>A couple of years ago our team of postdocs in Helsinki Lab of Ornithology started a shared project on European bird community changes under climate change and the paper is now out in PNAS! These communities have shifted northeastward in the past 30 years, but the shifts are faced with obstacles, such as mountain ranges and coastlines. Overall, bird communities are moving towards cooler areas but not fast enough to keep up with increasing temperatures. Working on this paper was such a pleasant experience, the division of work was smooth, deadlines were respected and all the science conversations were extremely interesting and constructive. I'm so proud of the team and the paper, this is how teamwork should be like! See press release here [in Finnish](https://www.helsinki.fi/fi/uutiset/ilmastonmuutos/euroopan-linnut-muuttavat-kohti-kylmempia-alueita-mutta-kohtaavat-esteita-vuoristojen-ja-merien-takia) and [in English](https://www.helsinki.fi/en/news/climate-change/european-bird-communities-move-cooler-areas-mountain-ranges-and-coastlines-control-traffic). And here's the link to the original [paper](https://www.pnas.org/doi/epdf/10.1073/pnas.2213330120).<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**June 2023**<br>
 
 </p>
 
@@ -222,7 +236,7 @@ group: news
 <br>
 <br>
 
-*Last updated: 19.06.2023*
+*Last updated: 17.07.2023*
 <br>
 <br>
 

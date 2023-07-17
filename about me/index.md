@@ -6,7 +6,7 @@ group: about me
 
 <h1 class="page-header text-center"> About me </h1>
 
-I am a community ecologist, currently working as a postdoc in [Center for Ecological Dynamics in a Novel Biosphere (ECONOVO)](https://bio.au.dk/forskning/forskningscentre/econovo) with Alejandro Ordonez. Previously, I worked as a postdoc in [Helsinki Lab of Ornithology](https://www.luomus.fi/fi/helsinki-lab-ornithology) led by Aleksi Lehikoinen. I did my PhD at the [Centre for Biodiversity Dynamics](https://www.ntnu.edu/cbd) at the [Norwegian University of Science and Technology](https://www.ntnu.edu/) in 2015-2019. Before that I did my BSc and MSc at [University of Jyväskylä](https://www.jyu.fi/en) and majored in ecology and evolutionary biology while also studying pedagogics, history and statistics.
+I am a community ecologist, currently working as Marie Skłodowska-Curie Actions postdoctoral fellow in [Center for Ecological Dynamics in a Novel Biosphere (ECONOVO)](https://bio.au.dk/forskning/forskningscentre/econovo) with Alejandro Ordonez. Previously, I worked as a postdoc in [Helsinki Lab of Ornithology](https://www.luomus.fi/fi/helsinki-lab-ornithology) led by Aleksi Lehikoinen. I did my PhD at the [Centre for Biodiversity Dynamics](https://www.ntnu.edu/cbd) at the [Norwegian University of Science and Technology](https://www.ntnu.edu/) in 2015-2019. Before that I did my BSc and MSc at [University of Jyväskylä](https://www.jyu.fi/en) and majored in ecology and evolutionary biology while also studying pedagogics, history and statistics.
 
 <img src="/static/img/about_me_pictures.png" class="img-responsive center-block" alt="Hiking near and far"/>
 
