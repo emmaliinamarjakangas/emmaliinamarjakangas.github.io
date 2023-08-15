@@ -8,7 +8,21 @@ group: news
 <br>
 <br>
 
-<p>**July 2023**<br>
+<p>**August 2023**<br>
+
+</p>
+
+<img src="/static/img/news_pic_17.png" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p>The first paper from Leena Hintsanen's PhD thesis is now published in the great society journal of Conservation Biology! Leena has been one of the first people to use Canadian Breeding Bird Survey data with exact coordinates of each point count, allowing her to know which observations are really done in conservation areas and which outside them. The rather worrying results show that protected areas can't mitigate bird community composition changes under warming climate. Even though the temperature preferences of birds inside the protected areas were still cooler than those of birds outside protected areas, the communities from protected areas are fast starting to resemble the communities from outside protected areas. Basically this means that protected areas can no longer provide microhabitats and refugia for species preferring cooler climates, which means double-threat for them under climate change. Read more about the underlying mechanisms in the open access [paper](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14134). <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**July 2023**<br>
 
 </p>
 
@@ -236,7 +250,7 @@ group: news
 <br>
 <br>
 
-*Last updated: 17.07.2023*
+*Last updated: 15.08.2023*
 <br>
 <br>
 
