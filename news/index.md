@@ -8,7 +8,21 @@ group: news
 <br>
 <br>
 
-<p>**August 2023**<br>
+<p>**September 2023**<br>
+
+</p>
+
+<img src="/static/img/news_pic_18.png" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p>My first attempts at science journalism is now well and live at [Suomen Luonto](https://suomenluonto.fi/)! Following the great workshop in the spring, I got the opportunity to write a blog post and a long article to the largest nature magazine in Finland. These pieces feature the research themes close to my heart and the sadness for the biodiversity loss that I (and many other ecologists globally) experience. The article is about the parallels in human effects on species interactions globally. The article follows two ecosystems and species pairs through centuries and shows why every extinction counts. The blog post tells about the small changes that we can make in our immeadiate surroundings to aid biodiversity and to avoid feeling desperation. [The full story](https://suomenluonto.fi/artikkelit/vuosisatojen-yksinaisyys/?fbclid=IwAR2QAoh5sDclpivZj_yr40WIOukaN7iKiy0Or9-DGwRC7skKs2G6CFETfCY) and [the blog text](https://suomenluonto.fi/lepyttelin-luontokatotuskaani-kukkaniitylla/) are available in Finnish. <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**August 2023**<br>
 
 </p>
 
