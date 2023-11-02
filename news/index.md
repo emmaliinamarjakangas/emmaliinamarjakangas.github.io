@@ -8,7 +8,21 @@ group: news
 <br>
 <br>
 
-<p>**September 2023**<br>
+<p>**October 2023**<br>
+
+</p>
+
+<img src="/static/img/news_pic_19.png" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p>A recently published paper has been included in an issue in [Diversity and Distributions](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13764)! In the paper, we developed a conceptual and statistical method for identifying species that can have a big and unique role in the larger community under climate change. The method can be applied to any ecosystem and species group that has enough information on the temporal changes in the community's species composition and on the species' traits. Climate change is and will be a big problem for many species that require conservation efforts. Conserving climate keystone species under changing environmental conditions focuses on the functionality of communities and ecosystems, rather than single species. Focusing on functionality is essentially focusing on tipping points: how many species with important functions can you remove before the ecosystem collapses beyond the help of any restoration. It was very inspiring to work on the paper together with a couple of new coauthors! <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**September 2023**<br>
 
 </p>
 
@@ -264,7 +278,7 @@ group: news
 <br>
 <br>
 
-*Last updated: 15.08.2023*
+*Last updated: 02.11.2023*
 <br>
 <br>
 
