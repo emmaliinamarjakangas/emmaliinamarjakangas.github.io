@@ -8,7 +8,38 @@ group: news
 <br>
 <br>
 
-<p>**October 2023**<br>
+<p>**December 2023**<br>
+
+</p>
+
+<img src="/static/img/news_pic_21.png" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> This is my first official month as a [Marie Skłodowska-Curie Actions Postdoctoral Fellow](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships)! Not much changed in terms of my research work but it's exciting to be part of the huge community of MSCA fellows across Europe and globally. A few practical things also change when shifting from personal-grant-guest-researcher position to a salary-postdoc position at the university. I now have vacation, more paperwork, better income, access to all university systems and support and, most importantly, a new laptop. The project on mutualistic network rewiring continues and I will present the first interesting results in International Biogeography Society's conference in Prague in January. <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**November 2023**<br>
+
+</p>
+
+<img src="/static/img/news_pic_20.png" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> One of the biggest endeavors of this autumn was the [SCB Europe's Fall Webinar](https://conbio.org/groups/sections/europe/scb-europe-webinar/) that gathered a lot of interesting talks on conservation science from ecological and human perspectives. In addition to the conservation-focused talks, I organized a session on diversity, equity, inclusion and justice. It was both intresting and frustrating to dive into the literature on the DEIJ issues in (conservation) science to create the presentation. In the end, it was worth it as attendees were eager to discuss how conservation and academia could be transformed to be more diverse and inclusive. We got a lot of great suggestions for the work being done at Society for Conservation Biology, for example to make our conferences accessible to people and leveling the playing field of conservation science for people from different backgrounds. I'm the chair of the new DEIJ committee at SCB Europe and we are always open to new members and ideas, feel free to [contact me](https://emmaliinamarjakangas.github.io/contact/)!<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**October 2023**<br>
 
 </p>
 
