@@ -18,6 +18,10 @@
   url: /publications
   group: publications
 
+- name: outreach
+  url: /outreach
+  group: outreach
+
 # - name: blog
 #   url: /blog
 #   group: blog
