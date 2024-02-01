@@ -8,7 +8,25 @@ group: news
 <br>
 <br>
 
-<p>**December 2023**<br>
+<p>**January 2024**<br>
+
+</p>
+
+<img src="/static/img/news_pic_22.png" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> I got the honor to join the editorial board of [Ecological Monographs](https://esajournals.onlinelibrary.wiley.com/journal/15577015) as a Subject-Matter Editor from mid-January. I will get a new perspective to the scientific publishing when handling submissions related to community & network ecology, biogeography, functional traits and global change. As [one of my PhD thesis chapters](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1502) was published in Ecological Monographs, I feel like I have a special relationship with the journal. And what makes the editor duties especially rewarding is that Ecological Monographs is a society journal, owned by Ecological Society of America. Thereby, the editorial work will benefit the scientific community more directly. I hope I will be lucky in my hunt for reviewers...
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**December 2023**<br>
 
 </p>
 
@@ -309,7 +327,7 @@ group: news
 <br>
 <br>
 
-*Last updated: 02.11.2023*
+*Last updated: 01.02.2024*
 <br>
 <br>
 
