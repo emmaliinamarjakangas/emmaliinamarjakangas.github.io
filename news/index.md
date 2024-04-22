@@ -12,7 +12,7 @@ group: news
 
 </p>
 
-<img src="/static/img/news_pic_25.jpeg" style="float: right;" height="217px" width="355px" border="50px"/>
+<img src="/static/img/news_pic_25.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> Leena Hintsanen aced her defence and earned her PhD degree! For the first time, I got to sit in the audience in the role of a very proud supervisor. Leena's PhD thesis ['The role of protected areas for boreal bird populations and communities in the face of climate change'](https://helda.helsinki.fi/items/c1fab0a6-3355-42ef-962e-91764f8711bd) draws conclusions on how to manage conservation of bird species and communities in protected areas under climate change in Canada and Finland. The opponent professort Grzegorz Mikusiński from SLU in Sweden asked interesting questions that allowed a fascinating scientific discussion that was also audience-friendly. Leena's achievement was celebrated afterwards in an appropriate and Finnish way with a 'karonkka' dinner at the Finnish Museum of Natural History. Not everyone gets to toast to their PhD in an exhibition of extinct and extanct species' bones. 
 <br>
@@ -30,7 +30,7 @@ group: news
 
 </p>
 
-<img src="/static/img/news_pic_24.jpeg" style="float: right;" height="217px" width="355px" border="50px"/>
+<img src="/static/img/news_pic_24.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> Excited to join the biennial Nordic Society Oikos conference in Lund, Sweden. Oikos conferences always offer a selection of ecological and evolutionary biology presentation, leaving me with broader general understanding of my field. I presented my latest work on interaction rewiring in hummingbird-flowering plant pollination networks with a poster that was so much fun to make after many years. Oikos conferences also offer the opportunity to catch up with old friends accumulated during my research journey through the Nordic countries. The conference did a great job at offering vegetarian lunches and a vegan dinner, spiced with a live saxophonist playing on the dancefloor after the dinner. The next one will be in Odense, Denmark in 2026, you will see me there for sure.
 <br>
