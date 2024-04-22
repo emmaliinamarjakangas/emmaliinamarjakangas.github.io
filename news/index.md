@@ -8,7 +8,61 @@ group: news
 <br>
 <br>
 
-<p>**January 2024**<br>
+<p>**April 2024**<br>
+
+</p>
+
+<img src="/static/img/news_pic_25.jpeg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> Leena Hintsanen aced her defence and earned her PhD degree! For the first time, I got to sit in the audience in the role of a very proud supervisor. Leena's PhD thesis ['The role of protected areas for boreal bird populations and communities in the face of climate change'](https://helda.helsinki.fi/items/c1fab0a6-3355-42ef-962e-91764f8711bd) draws conclusions on how to manage conservation of bird species and communities in protected areas under climate change in Canada and Finland. The opponent professort Grzegorz Mikusiński from SLU in Sweden asked interesting questions that allowed a fascinating scientific discussion that was also audience-friendly. Leena's achievement was celebrated afterwards in an appropriate and Finnish way with a 'karonkka' dinner at the Finnish Museum of Natural History. Not everyone gets to toast to their PhD in an exhibition of extinct and extanct species' bones. 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**March 2024**<br>
+
+</p>
+
+<img src="/static/img/news_pic_24.jpeg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> Excited to join the biennial Nordic Society Oikos conference in Lund, Sweden. Oikos conferences always offer a selection of ecological and evolutionary biology presentation, leaving me with broader general understanding of my field. I presented my latest work on interaction rewiring in hummingbird-flowering plant pollination networks with a poster that was so much fun to make after many years. Oikos conferences also offer the opportunity to catch up with old friends accumulated during my research journey through the Nordic countries. The conference did a great job at offering vegetarian lunches and a vegan dinner, spiced with a live saxophonist playing on the dancefloor after the dinner. The next one will be in Odense, Denmark in 2026, you will see me there for sure.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**February 2024**<br>
+
+</p>
+
+<img src="/static/img/news_pic_23.png" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> Our dataset of >6,000 bird species' tolerances to human pressures is now published in [Global Ecology and Biogeography](https://onlinelibrary.wiley.com/doi/10.1111/geb.13816). We found that most birds cannot inhabit areas that are under most intense human pressures and sensitivity is linked to declining population trends and increased endangerement. The article has gained some public attention, stemming from the [press release](https://www.helsinki.fi/en/news/biodiversity-loss/four-five-bird-species-cannot-tolerate-intense-human-pressures). For example, the article was featured in a poem by Sam Illingworth, the person behind the Poetry of Science. His beautiful poem ['Fettering their Nest'](https://thepoetryofscience.scienceblog.com/3834/fettering-their-nests/) describes how only few species can survive surrounded by "concrete colosseums" and "canyons of steel". It's motivating to know that scientific research can inspire art and hopefully political actions too.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**January 2024**<br>
 
 </p>
 
