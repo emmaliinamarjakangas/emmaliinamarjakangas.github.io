@@ -435,7 +435,7 @@ group: news
 <br>
 <br>
 
-*Last updated: 01.02.2024*
+*Last updated: 17.01.2024*
 <br>
 <br>
 
