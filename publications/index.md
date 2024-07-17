@@ -10,9 +10,9 @@ group: publications
 
 <img src="/static/img/wordcloud.jpg" style="float: right;" height="700px" width="700px" border="50px"/>
 
-[Food webs: where is the uniqueness?](https://www.sciencedirect.com/science/article/pii/S0960982224000058?dgcid=author) 2024. **Marjakangas Emma-Liina**. *Current Biology* 34: R197-R199
+[Food webs: where is the uniqueness?](https://www.sciencedirect.com/science/article/pii/S0960982224000058?dgcid=author) 2024. **Marjakangas Emma-Liina**. *Current Biology* 34:R197-R199
 
-[Bird species' tolerance to human pressures and associations with population change.](https://onlinelibrary.wiley.com/doi/10.1111/geb.13816) 2024. **Marjakangas Emma-Liina**, Johnston Alison, Santangeli Andrea, Lehikoinen Aleksi. *Global Ecology and Biogeography*
+[Bird species' tolerance to human pressures and associations with population change.](https://onlinelibrary.wiley.com/doi/10.1111/geb.13816) 2024. **Marjakangas Emma-Liina**, Johnston Alison, Santangeli Andrea, Lehikoinen Aleksi. *Global Ecology and Biogeography* 33:e13816
 
 [Identifying ‘climate keystone species’ as a tool for conserving ecological communities under climate change.](https://onlinelibrary.wiley.com/doi/10.1111/ddi.13764) 2023. **Marjakangas Emma-Liina**, Santangeli Andrea, Kujala Heini, Mammola Stefano, Lehikoinen Aleksi. *Diversity and Distributions* 29:1341-1354
 
