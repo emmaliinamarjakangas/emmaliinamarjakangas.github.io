@@ -8,7 +8,61 @@ group: news
 <br>
 <br>
 
-<p>**April 2024**<br>
+<p>**July 2024**<br>
+
+</p>
+
+<img src="/static/img/news_pic_28.jpeg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> Everyone else seems to be on vacation but I'm at the office, which seems like a nice time to work on a small side project. A few years ago together with Swedish and Norwegian colleagues, I collated flower traits for insect-pollinated plants in Scandinavia for a bigger project that never took off in the end. Recently, we decided to make use of this nice trait dataset ourselves and study how functional diversity of insect-pollinated native plants has changed over time in Southern Sweden. Working on an ecosystem so closeby and knowing a majority of the study species has been refreshing. I've also learnt so much more about the already familiar species by working with the Swedish experts. The preliminary results show that functional diversity is decreasing slower than species richness, which still should be linked to land use change. It will be a long way, but I look forward to getting these results published one day.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**June 2024**<br>
+
+</p>
+
+<img src="/static/img/news_pic_27.jpeg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> After two years of planning, the [7th European Congress of Conservation Biology](https://eccb2024.eu/) finally happened in sunny city of Bologna, Italy. I had participated in the conference in 2018 (in Jyväskylä, Finland) and in 2022 (in Prague, Czhecia), but this time I had an additional role as Society for Conservation Biology Europe Region's board member. As a board member I organized several events during the conference, all aiming at increasing inclusion in conservation science. On the first day, we organized an early-career icebreaker to make sure everyone has some familiar faces for the rest of the week. On the subsequent days, we organized a lunch discussion on how to make conservation fieldwork more inclusive and just and a speed mentoring event to connect early-career with more senior mentors. All events were very successful and I definitely plan to organize them again in the next ECCB in 2026. The biggest accomplishment of the week was to accept the new by-laws of the society, which solidified the Diversity, Equity, Inclusion, and Justice Committee and the role of the DEIJ officer in the actions of the society in the long term. I'm now officially the DEIJ officer of the society! 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**May 2024**<br>
+
+</p>
+
+<img src="/static/img/news_pic_26.jpeg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> It always takes me a while to get back into writing when starting a new project. This time, I decided to create a support system for myself so the writing would be a bit easier: a weekly writing club with other postdocs and PhD students at the section. During May (and continuing after the summer holidays) we have been gathering in a meeting room every Thursday for writing. Each writing club session starts with a round where everyone tells shortly about their task of the day. We write in 45 minute blocks and take 15 minute breaks between blocks, repeating this three times. During the 45 minutes, we make a deal not to have anything else open but the text document to minimize any distractions. The club has worked wonders! I've gotten my first manuscript from almost zero to complete draft. Everyone has been so surprised about their efficiency that the number of participating people has increased from three to >10. Accountability and minimizing distractions is the key!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**April 2024**<br>
 
 </p>
 
