@@ -11,7 +11,6 @@ I am a community ecologist, currently working as Marie Skłodowska-Curie Actions
 In addition to my main projects, I participate in scientific society work. Since 2023, I'm a board member of [Society for Conservation Biology Europe Region](https://conbio.org/groups/sections/europe). In the board, I chair the Diversity, Equity, Inclusion, and Justice Committee as well as organize seminars and conferences and update the society's social media accounts together with other board members. I'm also on the editorial board of [Ecological Monographs journal](https://esajournals.onlinelibrary.wiley.com/hub/journal/15577015/editorial-board/editorial-board) that I joined in 2024 as a Subject-Matter-Editor.
 <br>
 <br>
-<br>
 
 <img src="/static/img/about_me_pictures.png" class="img-responsive center-block" alt="Hiking near and far"/>
 
