@@ -31,4 +31,6 @@ Links to my accounts on:
 
 [Publons](https://publons.com/wos-op/researcher/3485086/emma-liina-marjakangas/)
 
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57198431691)
+
 

@@ -14,7 +14,7 @@ group: news
 
 <img src="/static/img/news_pic_28.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
 
-<p> Everyone else seems to be on vacation but I'm at the office, which seems like a nice time to work on a small side project. A few years ago together with Swedish and Norwegian colleagues, I collated flower traits for insect-pollinated plants in Scandinavia for a bigger project that never took off in the end. Recently, we decided to make use of this nice trait dataset ourselves and study how functional diversity of insect-pollinated native plants has changed over time in Southern Sweden. Working on an ecosystem so closeby and knowing a majority of the study species has been refreshing. I've also learnt so much more about the already familiar species by working with the Swedish experts. The preliminary results show that functional diversity is decreasing slower than species richness, which still should be linked to land use change. It will be a long way, but I look forward to getting these results published one day.
+<p> Everyone else is on vacation but I'm at the office, which seems like a nice time to work on a small side project. A few years ago together with Swedish and Norwegian colleagues, I collated flower traits for insect-pollinated plants in Scandinavia for a bigger project that never took off in the end. Recently, we decided to make use of this nice trait dataset ourselves and study how functional diversity of insect-pollinated native plants has changed over time in Southern Sweden. Working on an ecosystem so closeby and knowing a majority of the study species has been refreshing. I've also learnt so much more about the already familiar species by working with the Swedish experts. The preliminary results show that functional diversity is decreasing slower than species richness, which still should be linked to land use change. It will be a long way, but I look forward to getting these results published one day.
 <br>
 <br>
 <br>
@@ -435,7 +435,7 @@ group: news
 <br>
 <br>
 
-*Last updated: 17.01.2024*
+*Last updated: 26.07.2024*
 <br>
 <br>
 
