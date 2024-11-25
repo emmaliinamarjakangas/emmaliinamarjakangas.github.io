@@ -8,7 +8,82 @@ group: news
 <br>
 <br>
 
-<p>**July 2024**<br>
+<p>**November 2024**<br>
+
+</p>
+
+<img src="/static/img/news_pic_32.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> How can traits be used to answer important questions in ecology? I got a chance to give a talk about my trait-based research at [Senckenberg Biodiversity and Climate Research Centre](https://www.senckenberg.de/en/institutes/sbik-f/) in Frankfurt, Germany. My talk covered concepts and methods on how to quantify vulnerability of networks under global change pressures. The other speakers in the symposium had very inspiring presentations that sparked interesting discussions afterwards: Carolina Bello (ETH Zurich) talked about trait-based mechanistic models to infer seed rain from
+birds in fragmented landscapes, Maximilian Pichler (University of Regensburg) talked about using machine learning and deep learning for inference in trait based research, and Jörg Albrecht (Hessian Agency for Nature Conservation, Environment and Geology) talked about using traits to infer biodiversity dynamics in a changing world. As the cherry on top, I visited the beautiful Natural History Museum!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**October 2024**<br>
+
+</p>
+
+<img src="/static/img/news_pic_31.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> Finishing long-term side projects is tough when the new projects take over in their urgency. This autumn, I started a remote co-working session with a Norwegian colleague to bring to a completion our project on floral trait diversity changes that was started already in 2020. In practice, we now sit down every Thursday morning, turn on Zoom and write and/or analyze data with regular check-ins to chat about new results or references. This co-working routine has brought new motivation to the project and the manuscript is starting to take shape. Hopefully we'll have something concrete to submit early next year. Stay tuned if you're interested in land-use effects on functional diversity change in floral resources in Scandinavia.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**September 2024**<br>
+
+</p>
+
+<img src="/static/img/news_pic_30.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> For once there was no need to travel far for a conference as the Conference on Ecological Dynamics in a Novel Biosphere organized by our own [ECONOVO Center](https://bio.au.dk/forskning/forskningscentre/econovo) took place in Aarhus. Three days with a small but engaged crowd was great for receiving feedback on my on-going project. This was made especially efficient as we were encouraged to present both a talk and a poster. Although many of the participants were locals, I realized that I didn't know as much about my close colleagues' work as I had thought. Internal conferences have their benefits!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+**August 2024**<br>
+
+</p>
+
+<img src="/static/img/news_pic_29.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> The yearly tradition of the Ecoinformatics and Biodiversity -section at the Biology Department of Aarhus University is to do a weekend canoe trip along the Gudenå river. This year, we started from the very upstream where the river is only a couple of meters wide. The two-day canoeing ended in the Klostermølle and especially the last kilometers the river was framed by beautiful old trees. It was wonderful to enjoy the last warm days of the summer on a canoe, while floating past the Danish landscapes. It was great to get to know my colleagues and their families better. And for the first time, I saw a kingfisher! 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+**July 2024**<br>
 
 </p>
 
@@ -435,7 +510,7 @@ group: news
 <br>
 <br>
 
-*Last updated: 26.07.2024*
+*Last updated: 22.11.2024*
 <br>
 <br>
 
