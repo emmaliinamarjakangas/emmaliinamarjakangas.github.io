@@ -49,7 +49,7 @@ birds in fragmented landscapes, Maximilian Pichler (University of Regensburg) ta
 
 </p>
 
-<img src="/static/img/news_pic_30.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
+<img src="/static/img/news_pic_30.png" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> For once there was no need to travel far for a conference as the Conference on Ecological Dynamics in a Novel Biosphere organized by our own [ECONOVO Center](https://bio.au.dk/forskning/forskningscentre/econovo) took place in Aarhus. Three days with a small but engaged crowd was great for receiving feedback on my on-going project. This was made especially efficient as we were encouraged to present both a talk and a poster. Although many of the participants were locals, I realized that I didn't know as much about my close colleagues' work as I had thought. Internal conferences have their benefits!
 <br>

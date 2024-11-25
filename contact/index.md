@@ -13,9 +13,7 @@ Email: 	emmaliinamarjakangas(at)gmail.com or
 
 Links to my accounts on:
 
-[Twitter](http://twitter.com/EmmaMarjakangas)
-
-[Mastodon](https://ecoevo.social/@EmmaMarjakangas)
+[BlueSky](https://bsky.app/profile/emmamarjakangas.bsky.social)
 
 [ResearchGate](https://www.researchgate.net/profile/Emma-Liina-Marjakangas-2)
 
@@ -32,5 +30,7 @@ Links to my accounts on:
 [Publons](https://publons.com/wos-op/researcher/3485086/emma-liina-marjakangas/)
 
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57198431691)
+
+[Mastodon](https://ecoevo.social/@EmmaMarjakangas)
 
 
