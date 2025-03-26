@@ -30,7 +30,7 @@ group: news
 
 </p>
 
-<img src="/static/img/news_pic36.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
+<img src="/static/img/news_pic36.jpeg" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> It's always a pleasure to attend Oikos Finland conference and see old friends across the country. This time it's even a bigger pleasure as the conference was organized in Jyväskylä where I did my undergrad studies. It was great to return to the Jyväskylä University campus and present my work on seed disperser vulnerability in familiar halls. After a week of intense conferencing, I also visited my old group, Helsinki Lab of Ornithology, at the Natural History Museum in Helsinki. Although it's been a couple of years since I left the group, they always make me feel welcome. And the museum is such a beautiful workplace!
 <br>
