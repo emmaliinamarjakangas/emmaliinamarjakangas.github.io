@@ -8,7 +8,79 @@ group: news
 <br>
 <br>
 
-<p>**December 2024**<br>
+<p>**April 2025**<br>
+
+</p>
+
+<img src="/static/img/news_pic37.png" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> [New paper out!]() It's been a long process but I'm so proud of this first publication of my MSCA fellowship. The paper introduces the conceptual basis of functional potential that species and communities have to reorganize their interactions under global change. When considering species' functional traits, we show that it's possible to understand why some species can more easily find new interaction partners if their current partners disappear or if they are introduced to a new environment by humans. We illustrate the framework with a case study on hummingbirds and flowering plants, showing that the potential for reorganization in both hummingbird and plant communities is high across the Americas.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**March 2025**<br>
+
+</p>
+
+<img src="/static/img/news_pic36.png" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> It's always a pleasure to attend Oikos Finland conference and see old friends across the country. This time it's even a bigger pleasure as the conference was organized in Jyväskylä where I did my undergrad studies. It was great to return to the Jyväskylä University campus and present my work on seed disperser vulnerability in familiar halls. After a week of intense conferencing, I also visited my old group, Helsinki Lab of Ornithology, at the Natural History Museum in Helsinki. Although it's been a couple of years since I left the group, they always make me feel welcome. And the museum is such a beautiful workplace!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**February 2025**<br>
+
+</p>
+
+<img src="/static/img/news_pic35.png" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> I spent a week visiting Catherine Graham's group at WSL institute near Zurich this month. It was a wonderful opportunity to hear about the group members' work on hummingbirds and flowering plants in both observational and experimental contexts. I learnt so much new about hummingbirds' evolutionary history, behavior, and preference for flowers. I also got a chance to present my current work on how the past fluctuations in effective population sizes influence the current roles of hummingbirds in pollination networks. Outside working hours, it was great to see some topography around me, I hadn't realized how much I missed mountains and tall trees while living in Denmark! The night trains took me there and back, making the on-land travels so smooth and convenient.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**January 2025**<br>
+
+</p>
+
+<img src="/static/img/news_pic34.png" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> This year is again the year to apply for funding for the next project. First step was to organize old ideas and brainstorm new ones and to write a draft of a longer-term project that I can polish for different call throughout the year. The postdocs at the section of Ecoinformatics and Biodiversity share knowledge about grant writing in monthly sessions and offer support for each other, which makes the application process less daunting. For example, we have presented different international grants, given feedback on pitches, and formed writing accountability groups to facilitate the grant writing. Realizing that writing a successful grant always requires getting input and feedback from many different people has been the most important lesson for me so far.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**December 2024**<br>
 
 </p>
 
@@ -32,8 +104,7 @@ group: news
 
 <img src="/static/img/news_pic_32.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
 
-<p> How can traits be used to answer important questions in ecology? I got a chance to give a talk about my trait-based research at [Senckenberg Biodiversity and Climate Research Centre](https://www.senckenberg.de/en/institutes/sbik-f/) in Frankfurt, Germany. My talk covered concepts and methods on how to quantify vulnerability of networks under global change pressures. The other speakers in the symposium had very inspiring presentations that sparked interesting discussions afterwards: Carolina Bello (ETH Zurich) talked about trait-based mechanistic models to infer seed rain from
-birds in fragmented landscapes, Maximilian Pichler (University of Regensburg) talked about using machine learning and deep learning for inference in trait based research, and Jörg Albrecht (Hessian Agency for Nature Conservation, Environment and Geology) talked about using traits to infer biodiversity dynamics in a changing world. As the cherry on top, I visited the beautiful Natural History Museum!
+<p> How can traits be used to answer important questions in ecology? I got a chance to give a talk about my trait-based research at [Senckenberg Biodiversity and Climate Research Centre](https://www.senckenberg.de/en/institutes/sbik-f/) in Frankfurt, Germany. My talk covered concepts and methods on how to quantify vulnerability of networks under global change pressures. The other speakers in the symposium had very inspiring presentations that sparked interesting discussions afterwards: Carolina Bello (ETH Zurich) talked about trait-based mechanistic models to infer seed rain from birds in fragmented landscapes, Maximilian Pichler (University of Regensburg) talked about using machine learning and deep learning for inference in trait based research, and Jörg Albrecht (Hessian Agency for Nature Conservation, Environment and Geology) talked about using traits to infer biodiversity dynamics in a changing world. As the cherry on top, I visited the beautiful Natural History Museum!
 <br>
 <br>
 <br>
