@@ -66,7 +66,7 @@ group: news
 
 </p>
 
-<img src="/static/img/news_pic34.png" style="float: right;" height="217px" width="355px" border="50px"/>
+<img src="/static/img/news_pic 34.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> This year is again the year to apply for funding for the next project. First step was to organize old ideas and brainstorm new ones and to write a draft of a longer-term project that I can polish for different call throughout the year. The postdocs at the section of Ecoinformatics and Biodiversity share knowledge about grant writing in monthly sessions and offer support for each other, which makes the application process less daunting. For example, we have presented different international grants, given feedback on pitches, and formed writing accountability groups to facilitate the grant writing. Realizing that writing a successful grant always requires getting input and feedback from many different people has been the most important lesson for me so far.
 <br>
