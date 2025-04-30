@@ -8,7 +8,7 @@ group: contact
 
 <img src="/static/img/face1.jpg" style="float: right;" height="621px" width="446" border="10px"/>
 
-Email: 	emmaliinamarjakangas(at)gmail.com or 
+Email: 	emmaliinamarjakangas(at)gmail.com OR 
 	emma.marjakangas(at)bio.au.dk
 
 Links to my accounts on:
