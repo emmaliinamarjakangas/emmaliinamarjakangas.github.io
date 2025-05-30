@@ -10,7 +10,7 @@ group: publications
 
 <img src="/static/img/wordcloud.jpg" style="float: right;" height="700px" width="700px" border="50px"/>
 
-[Fundamental interaction niches: towards a functional understanding of ecological networks’ resilience]() 2025. **Marjakangas Emma-Liina**, Dalsgaard Bo, Ordonez Alejandro. *Ecology Letters*
+[Fundamental interaction niches: towards a functional understanding of ecological networks’ resilience](https://onlinelibrary.wiley.com/doi/10.1111/ele.70146) 2025. **Marjakangas Emma-Liina**, Dalsgaard Bo, Ordonez Alejandro. *Ecology Letters*
 
 [Protected area edges host more warm-dwelling bird communities than the rest of the landscape](https://www.sciencedirect.com/science/article/pii/S0006320725001077) 2025. Hintsanen Leena, **Marjakangas Emma-Liina**, Santangeli Andrea, Lehikoinen Aleksi. *Biological Conservation* 305:111070
 
