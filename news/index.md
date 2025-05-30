@@ -8,13 +8,31 @@ group: news
 <br>
 <br>
 
-<p>**April 2025**<br>
+<p>**May 2025**<br>
+
+</p>
+
+<img src="/static/img/news_pic38.png" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> Very inspiring to spend the week at iDiv in Leipzig and brainstorm about range shifts with a big group of brilliant people from all over the world! The sRED (Range Edge Dynamics) working group aims to synthesize the different mechanisms that influence range limits and shifts. I'm part of a subgroup that tries to conceptualize and test how ecological interactions contribute to range shifts. And what a productive week it ended up being: a lot of discussions, drawing on whiteboards, running analyses, and even writing the first paper! Looking forward to the next meeting already!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**April 2025**<br>
 
 </p>
 
 <img src="/static/img/news_pic37.png" style="float: right;" height="217px" width="355px" border="50px"/>
 
-<p> [New paper out!]() It's been a long process but I'm so proud of this first publication of my MSCA fellowship. The paper introduces the conceptual basis of functional potential that species and communities have to reorganize their interactions under global change. When considering species' functional traits, we show that it's possible to understand why some species can more easily find new interaction partners if their current partners disappear or if they are introduced to a new environment by humans. We illustrate the framework with a case study on hummingbirds and flowering plants, showing that the potential for reorganization in both hummingbird and plant communities is high across the Americas.
+<p> [New paper out!](https://doi.org/10.1111/ele.70146) It's been a long process but I'm so proud of this first publication of my MSCA fellowship. The paper introduces the conceptual basis of functional potential that species and communities have to reorganize their interactions under global change. When considering species' functional traits, we show that it's possible to understand why some species can more easily find new interaction partners if their current partners disappear or if they are introduced to a new environment by humans. We illustrate the framework with a case study on hummingbirds and flowering plants, showing that the potential for reorganization in both hummingbird and plant communities is high across the Americas.
 <br>
 <br>
 <br>
