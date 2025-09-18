@@ -8,7 +8,62 @@ group: news
 <br>
 <br>
 
-<p>**May 2025**<br>
+<p>**September 2025**<br>
+
+</p>
+
+<img src="/static/img/news_pic_sep25.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> Big month with several funding application deadlines, submissions of manuscripts and one finished PhD thesis of a student I co-supervise! This busy month also includes presenting my MSCA research at [MSCA Presidency conference 2025](https://msca2025.dtu.dk/#the-10-researchers-and-their-msca-projects) to show how mobility postdoc funding can lead to cool research. For this purpose, I made a short video (edited by DTU Medialab) that is available [here](https://vimeo.com/1119012503/fb5e6efedd?share=copy). It was fun to make the video and really think how conceptual ideas and complex models can be summarized into a video that anyone could understand.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**August 2025**<br>
+
+</p>
+
+<img src="/static/img/news_pic_aug25.jpeg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> Taking vacation in July means working twice as hard in August, especially when many funding calls have their deadlines in the autumn. Application writing has taken most of my time, I look forward to getting back to my actual science already!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+**June 2025**<br>
+
+</p>
+
+<img src="/static/img/news_pic_jun25.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> ECONOVO Center's yearly retreat at Sandbjerg Gods for a couple of days included very important and interesting discussions on fair recognition and power dynamics in academia that could influence how contributions are recognized. We talked about experiences at different career stages and different institutions and brainstormed how to make collaborations at ECONOVO more inclusive. The cherry on top was an evening sauna!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**May 2025**<br>
 
 </p>
 
@@ -25,6 +80,7 @@ group: news
 <br>
 <br>
 <br>
+
 
 **April 2025**<br>
 
@@ -617,7 +673,7 @@ group: news
 <br>
 <br>
 
-*Last updated: 22.11.2024*
+*Last updated: 19.09.2025*
 <br>
 <br>
 
