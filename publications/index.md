@@ -10,7 +10,7 @@ group: publications
 
 <img src="/static/img/wordcloud.jpg" style="float: right;" height="700px" width="700px" border="50px"/>
 
-[Solar radiation affects bird distributions but not elevational shifts in European mountains]() 2025. Couet Joséphine, **Marjakangas Emma-Liina**, Santangeli Andrea, Niittynen Pekka, Fontaine Benoît, Herrando Sergi, Kålås John Atle, Lindström Åke, Massimino Dario, Moosmann Marvin, Seaman Benjamin, Silva Laura, Stokke Bård G., Teufelbauer Norbert, Lehikoinen Aleksi. *Global Ecology and Biogeography*
+[Solar radiation affects bird distributions but not elevational shifts in European mountains](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.70143) 2025. Couet Joséphine, **Marjakangas Emma-Liina**, Santangeli Andrea, Niittynen Pekka, Fontaine Benoît, Herrando Sergi, Kålås John Atle, Lindström Åke, Massimino Dario, Moosmann Marvin, Seaman Benjamin, Silva Laura, Stokke Bård G., Teufelbauer Norbert, Lehikoinen Aleksi. *Global Ecology and Biogeography* e70143
 
 [Landscape heterogeneity moderates temporal changes in floral trait diversity](https://doi.org/10.32942/X2K366) 2025. Albertsen Elena, Herbertsson Lina, Löfgren Oskar, Tyler Torbjörn, **Marjakangas Emma-Liina**. *EcoEvoRxiv preprint*
 
