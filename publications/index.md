@@ -10,6 +10,10 @@ group: publications
 
 <img src="/static/img/wordcloud.jpg" style="float: right;" height="700px" width="700px" border="50px"/>
 
+[Solar radiation affects bird distributions but not elevational shifts in European mountains]() 2025. Couet Joséphine, **Marjakangas Emma-Liina**, Santangeli Andrea, Niittynen Pekka, Fontaine Benoît, Herrando Sergi, Kålås John Atle, Lindström Åke, Massimino Dario, Moosmann Marvin, Seaman Benjamin, Silva Laura, Stokke Bård G., Teufelbauer Norbert, Lehikoinen Aleksi. *Global Ecology and Biogeography*
+
+[Landscape heterogeneity moderates temporal changes in floral trait diversity](https://doi.org/10.32942/X2K366) 2025. Albertsen Elena, Herbertsson Lina, Löfgren Oskar, Tyler Torbjörn, **Marjakangas Emma-Liina**. *EcoEvoRxiv preprint*
+
 [Fundamental interaction niches: towards a functional understanding of ecological networks’ resilience](https://onlinelibrary.wiley.com/doi/10.1111/ele.70146) 2025. **Marjakangas Emma-Liina**, Dalsgaard Bo, Ordonez Alejandro. *Ecology Letters*
 
 [Protected area edges host more warm-dwelling bird communities than the rest of the landscape](https://www.sciencedirect.com/science/article/pii/S0006320725001077) 2025. Hintsanen Leena, **Marjakangas Emma-Liina**, Santangeli Andrea, Lehikoinen Aleksi. *Biological Conservation* 305:111070
@@ -25,7 +29,6 @@ group: publications
 [Temperature niche composition change inside and outside protected areas under a climate warming.](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14134) 2023. Hintsanen Leena, **Marjakangas Emma-Liina**, Santangeli Andrea, Johnston Alison, Lehikoinen Aleksi. *Conservation Biology* 37:e14134
 
 [Ecological barriers mediate spatiotemporal shifts of bird communities at a continental scale.](https://www.pnas.org/doi/epdf/10.1073/pnas.2213330120) 2023. **Marjakangas Emma-Liina***, Bosco Laura*, Versluijs Martijn, Xu Yanjie, Santangeli Andrea, Holopainen Sari, Mäkeläinen Sanna, Herrando Sergi, Keller Verena, Voříšek Petr, Brotons Lluís, Johnston Alison, Princé Karine, Willis Stephen, Aghababyan Karen, Ajder Vitalie, Balmer Dawn, Bino Taulant, Boyla Kerem Ali, Chodkiewicz Tomasz, del Moral Juan Carlos, Dumbović Mazal Vlatka, Ferrarini Alessandro, Godinho Carlos, Gustin Marco, Kalyakin Mikhail, Knaus Peter, Kuzmenko Tatiana, Lindström Åke, Maxhuni Qenan, Molina Blas,Nagy Károly, Radišić Dimitrije, Rajkov Saša, Rajković Draženko Z., Raudonikis Liutauras, Sjeničić Jovica, Stoychev Stoycho, Szép Tibor, Teufelbauer Norbert, Ursul Silvia, van Turnhout Chris A.M., Velevski Metodija, Vikstrøm Thomas, Wilk Tomasz, Voltzit Olga, Øien Ingar Jostein, Sudfeldt Christoph, Gerlach Bettina, Shimmings Paul, Lehikoinen Aleksi. *Proceedings of the National Academy of Science* 120:e2213330120
-
 
 [Effects of diversity on thermal niche variation in bird communities under climate change.](https://www.nature.com/articles/s41598-022-26248-1.pdf) 2022. **Marjakangas Emma-Liina**, Santangeli Andrea, Johnston Alison, Michel Nicole L., Princé Karine, Lehikoinen Aleksi. *Scientific Reports* 12:21810 
 
