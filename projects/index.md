@@ -51,7 +51,7 @@ Vascular plants are often used as indicators to assess the endangerment status o
 <br>
 <br>
 
-**Winter activity of Arthropods (*Arthropoda*) in forest and meadow habitats** (BSc 2013)
+**Winter activity of Arthropods (Arthropoda) in forest and meadow habitats** (BSc 2013)
 
 Both abiotic (e.g., snow depth and temperature) and biotic (e.g., species' traits and interactions) factors influence communities of wintering arthropods. In my BSc projet, I studied the composition of wintering arthropod communities in three snow layers in two habitat types that differ in their abiotic conditions. Springtails were the most dominant taxon across the snow layers and habitat types. The forest habitat had higher richness than meadow habitats, when measuring the number of taxa, number of individuals and number of indicator taxa. The abiotic factors influenced strongly the observed communities, suggesting that climate change will drastically influence the composition of wintering arthropod communities.
 
