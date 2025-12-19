@@ -100,11 +100,6 @@ group: news
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 **April 2025**<br>
@@ -114,11 +109,6 @@ group: news
 <img src="/static/img/news_pic37.png" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> [New paper out!](https://doi.org/10.1111/ele.70146) It's been a long process but I'm so proud of this first publication of my MSCA fellowship. The paper introduces the conceptual basis of functional potential that species and communities have to reorganize their interactions under global change. When considering species' functional traits, we show that it's possible to understand why some species can more easily find new interaction partners if their current partners disappear or if they are introduced to a new environment by humans. We illustrate the framework with a case study on hummingbirds and flowering plants, showing that the potential for reorganization in both hummingbird and plant communities is high across the Americas.
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -137,11 +127,6 @@ group: news
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 **February 2025**<br>
 
@@ -150,11 +135,6 @@ group: news
 <img src="/static/img/news_pic35.png" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> I spent a week visiting Catherine Graham's group at WSL institute near Zurich this month. It was a wonderful opportunity to hear about the group members' work on hummingbirds and flowering plants in both observational and experimental contexts. I learnt so much new about hummingbirds' evolutionary history, behavior, and preference for flowers. I also got a chance to present my current work on how the past fluctuations in effective population sizes influence the current roles of hummingbirds in pollination networks. Outside working hours, it was great to see some topography around me, I hadn't realized how much I missed mountains and tall trees while living in Denmark! The night trains took me there and back, making the on-land travels so smooth and convenient.
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -173,11 +153,6 @@ group: news
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 **December 2024**<br>
 
@@ -186,11 +161,6 @@ group: news
 <img src="/static/img/news_pic_33.png" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> For me, starting a new project is always more fun than doing the final polishing of the ongoing projects. In the past month, I have started analysing seed dispersal network data for understanding how vulnerable the networks are functionally to losing species. It's exciting to get new results and plot pretty maps, while figuring out the best ways to answer the study questions.
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -209,11 +179,6 @@ group: news
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 **October 2024**<br>
 
@@ -227,11 +192,6 @@ group: news
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 **September 2024**<br>
 
@@ -240,11 +200,6 @@ group: news
 <img src="/static/img/news_pic_30.png" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> For once there was no need to travel far for a conference as the Conference on Ecological Dynamics in a Novel Biosphere organized by our own [ECONOVO Center](https://bio.au.dk/forskning/forskningscentre/econovo) took place in Aarhus. Three days with a small but engaged crowd was great for receiving feedback on my on-going project. This was made especially efficient as we were encouraged to present both a talk and a poster. Although many of the participants were locals, I realized that I didn't know as much about my close colleagues' work as I had thought. Internal conferences have their benefits!
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -264,11 +219,6 @@ group: news
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 **July 2024**<br>
@@ -278,11 +228,6 @@ group: news
 <img src="/static/img/news_pic_28.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> Everyone else is on vacation but I'm at the office, which seems like a nice time to work on a small side project. A few years ago together with Swedish and Norwegian colleagues, I collated flower traits for insect-pollinated plants in Scandinavia for a bigger project that never took off in the end. Recently, we decided to make use of this nice trait dataset ourselves and study how functional diversity of insect-pollinated native plants has changed over time in Southern Sweden. Working on an ecosystem so closeby and knowing a majority of the study species has been refreshing. I've also learnt so much more about the already familiar species by working with the Swedish experts. The preliminary results show that functional diversity is decreasing slower than species richness, which still should be linked to land use change. It will be a long way, but I look forward to getting these results published one day.
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -301,11 +246,6 @@ group: news
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 **May 2024**<br>
 
@@ -314,11 +254,6 @@ group: news
 <img src="/static/img/news_pic_26.jpeg" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> It always takes me a while to get back into writing when starting a new project. This time, I decided to create a support system for myself so the writing would be a bit easier: a weekly writing club with other postdocs and PhD students at the section. During May (and continuing after the summer holidays) we have been gathering in a meeting room every Thursday for writing. Each writing club session starts with a round where everyone tells shortly about their task of the day. We write in 45 minute blocks and take 15 minute breaks between blocks, repeating this three times. During the 45 minutes, we make a deal not to have anything else open but the text document to minimize any distractions. The club has worked wonders! I've gotten my first manuscript from almost zero to complete draft. Everyone has been so surprised about their efficiency that the number of participating people has increased from three to >10. Accountability and minimizing distractions is the key!
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -337,11 +272,6 @@ group: news
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 **March 2024**<br>
 
@@ -350,11 +280,6 @@ group: news
 <img src="/static/img/news_pic_24.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> Excited to join the biennial Nordic Society Oikos conference in Lund, Sweden. Oikos conferences always offer a selection of ecological and evolutionary biology presentation, leaving me with broader general understanding of my field. I presented my latest work on interaction rewiring in hummingbird-flowering plant pollination networks with a poster that was so much fun to make after many years. Oikos conferences also offer the opportunity to catch up with old friends accumulated during my research journey through the Nordic countries. The conference did a great job at offering vegetarian lunches and a vegan dinner, spiced with a live saxophonist playing on the dancefloor after the dinner. The next one will be in Odense, Denmark in 2026, you will see me there for sure.
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -373,11 +298,6 @@ group: news
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 **January 2024**<br>
 
@@ -386,11 +306,6 @@ group: news
 <img src="/static/img/news_pic_22.png" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> I got the honor to join the editorial board of [Ecological Monographs](https://esajournals.onlinelibrary.wiley.com/journal/15577015) as a Subject-Matter Editor from mid-January. I will get a new perspective to the scientific publishing when handling submissions related to community & network ecology, biogeography, functional traits and global change. As [one of my PhD thesis chapters](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1502) was published in Ecological Monographs, I feel like I have a special relationship with the journal. And what makes the editor duties especially rewarding is that Ecological Monographs is a society journal, owned by Ecological Society of America. Thereby, the editorial work will benefit the scientific community more directly. I hope I will be lucky in my hunt for reviewers...
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
