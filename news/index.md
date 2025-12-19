@@ -610,7 +610,7 @@ group: news
 <br>
 <br>
 
-*Last updated: 19.09.2025*
+*Last updated: 19.12.2025*
 <br>
 <br>
 
