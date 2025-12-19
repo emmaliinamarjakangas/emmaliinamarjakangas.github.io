@@ -20,11 +20,6 @@ group: news
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 **November 2025**<br>
@@ -39,11 +34,6 @@ group: news
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 **October 2025**<br>
 
@@ -52,11 +42,6 @@ group: news
 <img src="/static/img/news_pic_oct25.png" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> Exciting new paper just out: [a new study led by PhD researcher Joséphine Couet](https://doi.org/10.1111/geb.70143) shows that solar radiation influences where mountain birds live but not how they shift uphill. Analyzing data from 177 species across four major European mountain regions (2001–2021), the team found that birds are more abundant on slopes with high solar radiation, which offer warmer microclimates and more forest cover. However, all birds moved uphill at similar rates, about 8.4 meters in 20 years, regardless of solar radiation. The study is Joséphine’s second PhD paper, part of her thesis to be defended in January 2026. Press release is also out and can be found [here](https://www.helsinki.fi/en/news/climate-change/birds-move-higher-mountains-climate-warms)!
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -195,7 +180,7 @@ group: news
 
 </p>
 
-<img src="/static/img/news_pic 34.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
+<img src="/static/img/news_pic_34.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> This year is again the year to apply for funding for the next project. First step was to organize old ideas and brainstorm new ones and to write a draft of a longer-term project that I can polish for different call throughout the year. The postdocs at the section of Ecoinformatics and Biodiversity share knowledge about grant writing in monthly sessions and offer support for each other, which makes the application process less daunting. For example, we have presented different international grants, given feedback on pitches, and formed writing accountability groups to facilitate the grant writing. Realizing that writing a successful grant always requires getting input and feedback from many different people has been the most important lesson for me so far.
 <br>
