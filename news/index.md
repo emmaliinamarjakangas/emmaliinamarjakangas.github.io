@@ -44,6 +44,8 @@ group: news
 <p> Exciting new paper just out: [a new study led by PhD researcher Joséphine Couet](https://doi.org/10.1111/geb.70143) shows that solar radiation influences where mountain birds live but not how they shift uphill. Analyzing data from 177 species across four major European mountain regions (2001–2021), the team found that birds are more abundant on slopes with high solar radiation, which offer warmer microclimates and more forest cover. However, all birds moved uphill at similar rates, about 8.4 meters in 20 years, regardless of solar radiation. The study is Joséphine’s second PhD paper, part of her thesis to be defended in January 2026. Press release is also out and can be found [here](https://www.helsinki.fi/en/news/climate-change/birds-move-higher-mountains-climate-warms)!
 <br>
 <br>
+<br>
+<br>
 
 **September 2025**<br>
 
