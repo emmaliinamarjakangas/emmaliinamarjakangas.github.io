@@ -44,9 +44,6 @@ group: news
 <p> Exciting new paper just out: [a new study led by PhD researcher Joséphine Couet](https://doi.org/10.1111/geb.70143) shows that solar radiation influences where mountain birds live but not how they shift uphill. Analyzing data from 177 species across four major European mountain regions (2001–2021), the team found that birds are more abundant on slopes with high solar radiation, which offer warmer microclimates and more forest cover. However, all birds moved uphill at similar rates, about 8.4 meters in 20 years, regardless of solar radiation. The study is Joséphine’s second PhD paper, part of her thesis to be defended in January 2026. Press release is also out and can be found [here](https://www.helsinki.fi/en/news/climate-change/birds-move-higher-mountains-climate-warms)!
 <br>
 <br>
-<br>
-<br>
-<br>
 
 **September 2025**<br>
 
@@ -324,10 +321,6 @@ group: news
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 **November 2023**<br>
 
@@ -336,7 +329,6 @@ group: news
 <img src="/static/img/news_pic_20.png" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> One of the biggest endeavors of this autumn was the [SCB Europe's Fall Webinar](https://conbio.org/groups/sections/europe/scb-europe-webinar/) that gathered a lot of interesting talks on conservation science from ecological and human perspectives. In addition to the conservation-focused talks, I organized a session on diversity, equity, inclusion and justice. It was both intresting and frustrating to dive into the literature on the DEIJ issues in (conservation) science to create the presentation. In the end, it was worth it as attendees were eager to discuss how conservation and academia could be transformed to be more diverse and inclusive. We got a lot of great suggestions for the work being done at Society for Conservation Biology, for example to make our conferences accessible to people and leveling the playing field of conservation science for people from different backgrounds. I'm the chair of the new DEIJ committee at SCB Europe and we are always open to new members and ideas, feel free to [contact me](https://emmaliinamarjakangas.github.io/contact/)!<br>
-<br>
 <br>
 <br>
 <br>
@@ -355,7 +347,6 @@ group: news
 <br>
 <br>
 <br>
-<br>
 
 **September 2023**<br>
 
@@ -364,7 +355,6 @@ group: news
 <img src="/static/img/news_pic_18.png" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p>My first attempts at science journalism is now well and live at [Suomen Luonto](https://suomenluonto.fi/)! Following the great workshop in the spring, I got the opportunity to write a blog post and a long article to the largest nature magazine in Finland. These pieces feature the research themes close to my heart and the sadness for the biodiversity loss that I (and many other ecologists globally) experience. The article illustrates the parallels in human effects on species interactions globally by following two ecosystems and species pairs through centuries and shows why every extinction counts. The blog post tells about the small changes that we can make in our immeadiate surroundings to aid biodiversity and to avoid feeling desperation. [The full story](https://suomenluonto.fi/artikkelit/vuosisatojen-yksinaisyys/?fbclid=IwAR2QAoh5sDclpivZj_yr40WIOukaN7iKiy0Or9-DGwRC7skKs2G6CFETfCY) and [the blog text](https://suomenluonto.fi/lepyttelin-luontokatotuskaani-kukkaniitylla/) are available in Finnish. <br>
-<br>
 <br>
 <br>
 <br>
@@ -382,8 +372,6 @@ group: news
 <br>
 <br>
 <br>
-<br>
-<br>
 
 **July 2023**<br>
 
@@ -392,7 +380,6 @@ group: news
 <img src="/static/img/news_pic_16.png" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p>A couple of years ago our team of postdocs in Helsinki Lab of Ornithology started a shared project on European bird community changes under climate change and the paper is now out in PNAS! These communities have shifted northeastward in the past 30 years, but the shifts are faced with obstacles, such as mountain ranges and coastlines. Overall, bird communities are moving towards cooler areas but not fast enough to keep up with increasing temperatures. Working on this paper was such a pleasant experience, the division of work was smooth, deadlines were respected and all the science conversations were extremely interesting and constructive. I'm so proud of the team and the paper, this is how teamwork should be like! See press release here [in Finnish](https://www.helsinki.fi/fi/uutiset/ilmastonmuutos/euroopan-linnut-muuttavat-kohti-kylmempia-alueita-mutta-kohtaavat-esteita-vuoristojen-ja-merien-takia) and [in English](https://www.helsinki.fi/en/news/climate-change/european-bird-communities-move-cooler-areas-mountain-ranges-and-coastlines-control-traffic). And here's the link to the original [paper](https://www.pnas.org/doi/epdf/10.1073/pnas.2213330120).<br>
-<br>
 <br>
 <br>
 <br>
@@ -411,7 +398,6 @@ group: news
 <br>
 <br>
 <br>
-<br>
 
 **May 2023**<br>
 
@@ -420,6 +406,7 @@ group: news
 <img src="/static/img/news_pic_15.png" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p>I got the great opportunity to give a public lecture on biodiversity in [Porkkalan lintuviikko](https://porkkalanlintuviikko.fi/) in Kirkkonummi. This was the first time in years that I gave a lecture in Finnish and the first time in years that I gave a lecture targeted to the general audience. Porkkalan lintuviikko is a yearly event for anyone interested in nature and birds and it includes public lectures and field trips. Although Friday evening was not the best time to attract a lot of people, the audience was interested in learning how the biodiversity ensures a stable and functional ecosystem. The highglight of the evening was to have my mother in the audience learning in more detail about my field of work and my own research. Thanks mom for joining! The lecture will be available on [Porkkalan lintuviikko's Youtube channel](https://www.youtube.com/watch?v=sr3S48OjQkM) soon!<br>
+<br>
 <br>
 <br>
 <br>
@@ -468,7 +455,6 @@ group: news
 <img src="/static/img/news_pic_11.png" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p>Big news to start the new year: I have joined the board of [Society for Conservation Biology, Europe section](https://conbio.org/groups/sections/europe)! I'm really excited to start working on the next ECCB conference, facilitating science-based policies based on conservation research and supporting early career conservation scientists across Europe with awards and opportunities to join interesting webinars. All that should keep me busy during the three-year term on the board! <br>
-<br>
 <br>
 <br>
 <br>
