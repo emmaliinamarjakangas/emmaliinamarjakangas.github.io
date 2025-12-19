@@ -70,6 +70,9 @@ group: news
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 
 **June 2025**<br>
@@ -158,6 +161,9 @@ group: news
 <img src="/static/img/news_pic_33.png" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> For me, starting a new project is always more fun than doing the final polishing of the ongoing projects. In the past month, I have started analysing seed dispersal network data for understanding how vulnerable the networks are functionally to losing species. It's exciting to get new results and plot pretty maps, while figuring out the best ways to answer the study questions.
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
