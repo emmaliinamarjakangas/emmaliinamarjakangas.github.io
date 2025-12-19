@@ -8,13 +8,50 @@ group: news
 <br>
 <br>
 
-<p>**October 2025**<br>
+<p>**December 2025**<br>
+
+</p>
+
+<img src="/static/img/news_pic_dec25.jpeg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> I attended the BES Annual Meeting for the first time this year, held in the beautiful city of Edinburgh. It was a great experience to finally be part of such a large and inspiring ecological conference. I presented a poster (which I love designing), together with MANY others: the poster sessions were huge! An extra nice touch was that all the food at the conference was vegan, which made me very happy. The keynote talks stood out in particular: excellent examples of compelling scientific storytelling that left me feeling very inspired. Overall, a memorable first BES conference and hopefully the first of many. I hope I'll get to go next year as well!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+**November 2025**<br>
+
+</p>
+
+<img src="/static/img/news_pic_nov25.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> I spent an inspiring week at a trait-based workshop just outside Frankfurt, exploring how we can connect individual plant and animal traits to ecosystem-level processes. The setting was a cute hotel inside a small forest, which served as a nice place to go for walks between sessions. Discussions focused on how the rapidly growing availability of trait data can advance our understanding of ecosystem functioning. I found it especially exciting how different perspectives are coming together — from data collection to modelling processes across scales. My own work sits right at the intersection of these ideas: interactions between species help shape ecosystem functions, and functional traits influence which interactions actually occur. I learned a lot about new approaches to quantifying ecosystem functioning and met many people whose work I’ve been following for a long time — it was great finally putting faces to names. Looking forward to building on many of the ideas we talked about!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**October 2025**<br>
 
 </p>
 
 <img src="/static/img/news_pic_oct25.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
 
-<p> Exciting new paper just out: [a new study led by PhD researcher Joséphine Couet](link) shows that solar radiation influences where mountain birds live but not how they shift uphill. Analyzing data from 177 species across four major European mountain regions (2001–2021), the team found that birds are more abundant on slopes with high solar radiation, which offer warmer microclimates and more forest cover. However, all birds moved uphill at similar rates, about 8.4 meters in 20 years, regardless of solar radiation. The study is Joséphine’s second PhD paper, part of her thesis to be defended in January 2026. Press release is also out and can be found [here](link)!
+<p> Exciting new paper just out: [a new study led by PhD researcher Joséphine Couet](link) shows that solar radiation influences where mountain birds live but not how they shift uphill. Analyzing data from 177 species across four major European mountain regions (2001–2021), the team found that birds are more abundant on slopes with high solar radiation, which offer warmer microclimates and more forest cover. However, all birds moved uphill at similar rates, about 8.4 meters in 20 years, regardless of solar radiation. The study is Joséphine’s second PhD paper, part of her thesis to be defended in January 2026. Press release is also out and can be found [here](https://www.helsinki.fi/en/news/climate-change/birds-move-higher-mountains-climate-warms)!
 <br>
 <br>
 <br>
