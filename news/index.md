@@ -60,11 +60,6 @@ group: news
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 **August 2025**<br>
 
@@ -73,11 +68,6 @@ group: news
 <img src="/static/img/news_pic_aug25.jpeg" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> Taking vacation in July means working twice as hard in August, especially when many funding calls have their deadlines in the autumn. Application writing has taken most of my time, I look forward to getting back to my actual science already!
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -92,11 +82,6 @@ group: news
 <img src="/static/img/news_pic_jun25.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> ECONOVO Center's yearly retreat at Sandbjerg Gods for a couple of days included very important and interesting discussions on fair recognition and power dynamics in academia that could influence how contributions are recognized. We talked about experiences at different career stages and different institutions and brainstormed how to make collaborations at ECONOVO more inclusive. The cherry on top was an evening sauna!
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
