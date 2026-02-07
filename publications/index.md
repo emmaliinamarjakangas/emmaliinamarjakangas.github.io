@@ -11,6 +11,8 @@ group: publications
 <img src="/static/img/wordcloud.jpg" style="float: right;" height="700px" width="700px" border="50px"/>
 
 
+[The making of novel ecosystems: a process-based framework for measurement, analysis, and application](https://doi.org/10.1111/2041-210x.70255) 2026. Kerr Matthew, Svenning Jens-Christian, Riede Felix, Buitenwerf Robert, Abraham Andrew, **Marjakangas Emma-Liina**, Sykut Maciej, Ordonez Alejandro. *Methods in Ecology and Evolution*
+
 [Echoes of the past: long-term climate stability shapes functional and phylogenetic diversity in Euro-Mediterranean forests](https://doi.org/10.1111/geb.70177) 2025. Magneville Camille, Cartereau Manuel, Hernández-Agüero Juan Antonio, Silva Elysa, **Marjakangas Emma-Liina**, Moracho Martinez Eva, Biffoni Geordie, Casazza Gabriele, Kati Vassiliki I., Kokkoris Ioannis P., Le Bagousse-Pinguet Yoann, Médail Frédéric, Millon Alexandre, Nève Gabriel, Riva Federico, Soliveres Santiago, Zografou Konstantina, Olsen Kent, Svenning Jens-Christian, Agathe Leriche, Ordonez Alejandro. *Global Ecology and Biogeography* e70177 
 
 [Solar radiation affects bird distributions but not elevational shifts in European mountains](https://onlinelibrary.wiley.com/doi/full/10.1111/geb.70143) 2025. Couet Joséphine, **Marjakangas Emma-Liina**, Santangeli Andrea, Niittynen Pekka, Fontaine Benoît, Herrando Sergi, Kålås John Atle, Lindström Åke, Massimino Dario, Moosmann Marvin, Seaman Benjamin, Silva Laura, Stokke Bård G., Teufelbauer Norbert, Lehikoinen Aleksi. *Global Ecology and Biogeography* e70143
