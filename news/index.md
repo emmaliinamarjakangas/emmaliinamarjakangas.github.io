@@ -8,7 +8,47 @@ group: news
 <br>
 <br>
 
-<p>**December 2025**<br>
+<p>**March 2026**<br>
+
+</p>
+
+<img src="/static/img/news_pic_mar26.jpeg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> This spring, much of my focus has been on my role as Chair of the Diversity, Equity, Inclusion and Justice (DEIJ) Committee of the Society for Conservation Biology Europe Region. Together with the committee, we are preparing several initiatives for the upcoming [ECCB 2026 conference](https://eccb26leiden.eu/) in July. We will host a speed-mentoring event and an icebreaker session for early-career participants, and we are providing participation grants for those who face financial barriers to attending the conference. In addition, we have been working closely with the local organizers to ensure that different aspects of accessibility are taken into account in the planning process. Through this work, I am learning a lot, not only about conference organization, but also about the many privileges and disadvantages that determine who gets to participate in conservation science. It feels meaningful to contribute to making our scientific community more inclusive and supportive.
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**February 2026**<br>
+
+</p>
+
+<img src="/static/img/news_pic_feb26.jpeg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> In February, I was invited to speak about species interactions at the [European Conference of Tropical Ecology 2026 – Species, Ecosystems, People](https://gtoe2026-passau.de/index.html), held in southern Germany. It was my first time at this conference, and I really appreciated its manageable size: enough parallel sessions to offer diversity, but few enough to avoid constant scheduling conflicts and allowing meaningful conversations. I travelled by train both ways, which remains my favorite way to attend conferences. I get a surprising amount of work done while enjoying the changing landscapes along the way, which is more than can be said about flying. Tropical ecology connects people primarily through the study system, so the topics and perspectives were diverse and refreshing. Although the location was not exactly tropical, the city offered its own “meeting of the waters” (like the one in Manaus) where the rivers Inn and Danube converge.
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**January 2026**<br>
+
+</p>
+
+<img src="/static/img/news_pic_jan26.jpeg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> I had the pleasure of attending the [International Biogeography Society Conference 2026](https://conferences.au.dk/tibs-aarhus-2026) in Aarhus, where I gave a presentation and enjoyed a few snowy winter days in the city. The conference was followed by a symposium at Aarhus University on addressing ecological novelty, and a workshop on restoring ecosystem functioning in novel ecosystems using interaction- and trait-based approaches, both of which I organized with fellow postdocs Eva Moracho and Kate Maia. The workshop was particularly inspiring. We spent a couple of intensive days brainstorming concepts, methods, and future directions for restoration in our highly altered biosphere. In general, conferences and workshops are the most inspiring part of science for me: fascinating discussions with people working on related (and sometimes completely unrelated) topics, and plenty of collaborative drawing of conceptual figures.
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+**December 2025**<br>
 
 </p>
 
@@ -20,7 +60,6 @@ group: news
 <br>
 <br>
 <br>
-
 
 **November 2025**<br>
 
