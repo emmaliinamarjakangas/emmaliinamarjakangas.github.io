@@ -10,6 +10,9 @@ group: publications
 
 <img src="/static/img/wordcloud.jpg" style="float: right;" height="700px" width="700px" border="50px"/>
 
+[Double-edged dispersal: animal-mediated transport in the Anthropocene](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(26)00101-1) 2026. Abraham Andrew, Duvall Ethan, Moracho Eva, Ruiz-López Maria, Gilbert Lola, Ellis-Soto Diego, Prys-Jones Tomos, **Marjakangas Emma-Liina** *Trends in Ecology and Evolution*
+
+[Novel citation-based indices exacerbate privilege gaps in academic publishing](https://doi.org/10.32942/X2RW9T) 2026. Kerr Matthew, Bellvé André, **Marjakangas Emma-Liina**. *EcoEvoRxiv preprint*
 
 [The making of novel ecosystems: a process-based framework for measurement, analysis, and application](https://doi.org/10.1111/2041-210x.70255) 2026. Kerr Matthew, Svenning Jens-Christian, Riede Felix, Buitenwerf Robert, Abraham Andrew, **Marjakangas Emma-Liina**, Sykut Maciej, Ordonez Alejandro. *Methods in Ecology and Evolution*
 

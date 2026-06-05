@@ -8,7 +8,47 @@ group: news
 <br>
 <br>
 
-<p>**March 2026**<br>
+
+<p>**June 2026**<br>
+
+</p>
+
+<img src="/static/img/news_pic_jun26.png" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> FUNDING NEWS COMING UP!
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**May 2026**<br>
+
+</p>
+
+<img src="/static/img/news_pic_may26.png" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> Time for the follow-up meeting of the sRED working group at iDiv center in Leipzig! The meeting on range edge theory and quantification was both productive and inspiring. We finalized the revision of a manuscript that we started during last year's meeting, which explores how positive and negative interactions may facilitate or constrain future range shifts. We also had many discussions about the demographic and plastic responses of species across their ranges and how these contribute to the formation of range edges. As always, the week involved plenty of brainstorming, drawing on whiteboards, and developing new ideas together. It was great to see the other members of the working group again, and the sunny weather and coincidental overlap with the huge Gothic festival made exploring Leipzig an added bonus. Hopefully we can meet once more next year to wrap up some of the remaining ideas!
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**April 2026**<br>
+
+</p>
+
+<img src="/static/img/news_pic_apr26.jpeg" style="float: right;" height="217px" width="355px" border="50px"/>
+
+<p> My final retreat as part of the ECONOVO center before the end of my funding at Aarhus University! Members of the ECONOVO center got again a chance to enjoy a retreat outside the city. We spent a couple of days by the southeastern coast of Jylland and learnt a lot about effective graphics. Another highlight was a horizon-scanning exercise where participants worked in groups to explore sustainability challenges spanning biodiversity, climate, governance, technology, and social systems. Together we identified drivers of change, imagined possible futures, and discussed actions that could help steer them in desirable directions. Beyond the workshops, there was also time for forest walks and some beers. 
+<br>
+<br>
+<br>
+<br>
+<br>
+
+**March 2026**<br>
 
 </p>
 
@@ -649,7 +689,7 @@ group: news
 <br>
 <br>
 
-*Last updated: 19.12.2025*
+*Last updated: 05.06.2026*
 <br>
 <br>
 
