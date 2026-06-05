@@ -21,6 +21,11 @@ group: news
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 **May 2026**<br>
 
@@ -32,14 +37,12 @@ group: news
 <br>
 <br>
 <br>
-<br>
-<br>
 
 **April 2026**<br>
 
 </p>
 
-<img src="/static/img/news_pic_apr26.jpeg" style="float: right;" height="217px" width="355px" border="50px"/>
+<img src="/static/img/news_pic_apr26.jpg" style="float: right;" height="217px" width="355px" border="50px"/>
 
 <p> My final retreat as part of the ECONOVO center before the end of my funding at Aarhus University! Members of the ECONOVO center got again a chance to enjoy a retreat outside the city. We spent a couple of days by the southeastern coast of Jylland and learnt a lot about effective graphics. Another highlight was a horizon-scanning exercise where participants worked in groups to explore sustainability challenges spanning biodiversity, climate, governance, technology, and social systems. Together we identified drivers of change, imagined possible futures, and discussed actions that could help steer them in desirable directions. Beyond the workshops, there was also time for forest walks and some beers. 
 <br>
