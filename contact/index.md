@@ -8,8 +8,7 @@ group: contact
 
 <img src="/static/img/face1.jpg" style="float: right;" height="621px" width="446" border="10px"/>
 
-Email: 	emmaliinamarjakangas(at)gmail.com OR 
-	emma.marjakangas(at)bio.au.dk
+Email: 	emmaliinamarjakangas(at)gmail.com
 
 Links to my accounts on:
 
@@ -30,7 +29,4 @@ Links to my accounts on:
 [Publons](https://publons.com/wos-op/researcher/3485086/emma-liina-marjakangas/)
 
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57198431691)
-
-[Mastodon](https://ecoevo.social/@EmmaMarjakangas)
-
 
