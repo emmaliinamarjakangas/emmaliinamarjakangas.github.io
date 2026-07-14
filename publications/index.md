@@ -8,7 +8,7 @@ group: publications
 
 *If you don't have access to a publication via the links below, please contact me by email to get a pdf.*
 
-<img src="/static/img/wordcloud.jpg" style="float: right;" height="700px" width="700px" border="50px"/>
+<img src="/static/img/wordcloud.png" style="float: right;" height="600px" width="700px" border="50px"/>
 
 [Large protected areas buffer against climate change effects on bird populations in northern Europe]() 2026. Hintsanen Leena, Lehikoinen Aleksi, Toivonen Tero, Rajasärkkä Ari, **Marjakangas Emma-Liina** *Diversity and Distributions*
 
