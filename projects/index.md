@@ -6,6 +6,15 @@ group: projects
 
 <h1 class="page-header text-center"> Projects </h1>
 
+**Arising novelty in ecological networks: consequences for ecosystem functioning and biodiversity conservation** (Academy Research Fellowship / Emil Aaltonen Foundation project 2026-2030)
+
+Understanding how ecological networks reorganize under global change is essential for predicting the future of biodiversity and ecosystem functioning. In this project, I investigate how novel interactions emerge in seed dispersal networks across Europe and assess when such ecological network novelty is beneficial, neutral, or harmful for ecosystem functioning. I combine large-scale ecological network data, functional trait information, and conservation prioritization to quantify network novelty, identify its drivers, and evaluate its implications for biodiversity conservation under future environmental change. The project is carried out by a team consisting of a PhD student, a postdoctoral researcher, and a research assistant, in collaboration with Professors Heini Kujala (University of Helsinki, Finland) and Matthias Schleuning (Senckenberg Biodiversity and Climate Research Centre, Germany). The project is funded by [Research Council of Finland Academy Research Fellowship](https://research.fi/en/results/funding/88997) and [Emil Aaltonen Foundation](https://emilaaltonen.fi/myonnetyt-apurahat/apurahojen-vaikutuksia/).
+
+<br>
+<img src="/static/img/academy_project.png" class="img-responsive center-block" alt="Examples of novel interactions emerging between native and alien species in Europe where the number of alien species is predicted to strongly increase during the 21st century. From left: native Greenfinch (Chloris chloris) eating fruits of alien beach rose (Rosa rugosa); native white-tailed bumblebee (Bombus lucorum) looking for nectar and pollen from alien large-leaved lupine (Lupinus polyphyllus); alien American mink (Neogale vison) has caught a chick of a native duck. The alien species in these examples are also invasive, causing documented negative impacts on humans and nature." style="max-height: 200px;"/>
+<br>
+<br>
+
 **Rewiring of ecological networks under global change** (Postdoc 2023-2026)
 
 One of the main consequences of the current biodiversity crisis is the reorganization of pairwise interactions among species across ecological networks. This reorganization of ecological networks, termed ‘interaction rewiring’, can occur both via establishment of new interactions between species and/or changes in the strengths of the interactions between species. Rewiring can drastically alter nature’s functions and services to humanity. In this project, I quantify the potential of rewiring in mutualistic networks globally and predict how mutualistic networks might rewire under different global change scenarios. For example, I study the effect of rewiring on network stability in pollination and seed dispersal networks. The project is funded by Postdocpool / Emil Aaltosen Säätiö and Marie Skłodowska-Curie Actions (MSCA) Fellowship.
