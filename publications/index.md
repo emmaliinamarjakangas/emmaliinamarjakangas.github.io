@@ -12,7 +12,7 @@ group: publications
 
 **--2026--**
 
-[Large protected areas buffer against climate change effects on bird populations in northern Europe]() 2026. Hintsanen Leena, Lehikoinen Aleksi, Toivonen Tero, Rajasärkkä Ari, **Marjakangas Emma-Liina** *Diversity and Distributions*
+[Large protected areas buffer against climate change effects on bird populations in northern Europe](https://onlinelibrary.wiley.com/doi/10.1111/ddi.70240) 2026. Hintsanen Leena, Lehikoinen Aleksi, Toivonen Tero, Rajasärkkä Ari, **Marjakangas Emma-Liina** *Diversity and Distributions*
 
 [Double-edged dispersal: animal-mediated transport in the Anthropocene](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(26)00101-1) 2026. Abraham Andrew, Duvall Ethan, Moracho Eva, Ruiz-López Maria, Gilbert Lola, Ellis-Soto Diego, Prys-Jones Tomos, **Marjakangas Emma-Liina** *Trends in Ecology and Evolution*
 
