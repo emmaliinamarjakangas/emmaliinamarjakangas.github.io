@@ -12,11 +12,11 @@ group: publications
 
 **--2027--**
 
-The role of biotic permeability in species' range dynamics. 2027. **Marjakangas Emma**, Barreto Elisa*, Borregaard Michael Krabbe, Chaikin Shahar, Carvajal-Quintero Juan, Marshall Katie, Usui Takuji, Pires Mathias, Graham Catherine, Lessard Jean-Philippe. *In press in Trends in Ecology and Evolution*
+The role of biotic permeability in species' range dynamics. 2027. **Marjakangas Emma-Liina**, Barreto Elisa*, Borregaard Michael Krabbe, Chaikin Shahar, Carvajal-Quintero Juan, Marshall Katie, Usui Takuji, Pires Mathias, Graham Catherine, Lessard Jean-Philippe. *In press in Trends in Ecology and Evolution*
 
 **--2026--**
 
-[Habitat type and temperature mediate birds’ elevational shifts across European mountains](https://www.authorea.com/doi/full/10.22541/authorea.15010599/v1) 2026. Couet Josephine, Lehikoinen Aleksi, Bosco Laura, Niittynen Pekka, Brotons Lluís, Calvi Gianpiero, Fontaine Benoît, Herrando Sergi, Heywood James, Kålås John, Lindström Åke, Massimino Dario, Moosmann Marvin, Righini Roberta, Seaman Benjamin, Stokke Bård, Teufelbauer Norbert, **Marjakangas Emma**, Santangeli Andrea *Authorea preprint*
+[Habitat type and temperature mediate birds’ elevational shifts across European mountains](https://www.authorea.com/doi/full/10.22541/authorea.15010599/v1) 2026. Couet Josephine, Lehikoinen Aleksi, Bosco Laura, Niittynen Pekka, Brotons Lluís, Calvi Gianpiero, Fontaine Benoît, Herrando Sergi, Heywood James, Kålås John, Lindström Åke, Massimino Dario, Moosmann Marvin, Righini Roberta, Seaman Benjamin, Stokke Bård, Teufelbauer Norbert, **Marjakangas Emma-Liina**, Santangeli Andrea *Authorea preprint*
 
 [Large protected areas buffer against climate change effects on bird populations in northern Europe](https://onlinelibrary.wiley.com/doi/10.1111/ddi.70240) 2026. Hintsanen Leena, Lehikoinen Aleksi, Toivonen Tero, Rajasärkkä Ari, **Marjakangas Emma-Liina** *Diversity and Distributions*
 
