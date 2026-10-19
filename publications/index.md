@@ -12,7 +12,7 @@ group: publications
 
 **--2027--**
 
-The role of biotic permeability in species' range dynamics. 2027. **Marjakangas Emma-Liina**, Barreto Elisa*, Borregaard Michael Krabbe, Chaikin Shahar, Carvajal-Quintero Juan, Marshall Katie, Usui Takuji, Pires Mathias, Graham Catherine, Lessard Jean-Philippe. *In press in Trends in Ecology and Evolution*
+The role of biotic permeability in species' range dynamics. 2027. **Marjakangas Emma-Liina**, Barreto Elisa, Borregaard Michael Krabbe, Chaikin Shahar, Carvajal-Quintero Juan, Marshall Katie, Usui Takuji, Pires Mathias, Graham Catherine, Lessard Jean-Philippe. *In press in Trends in Ecology and Evolution*
 
 **--2026--**
 
